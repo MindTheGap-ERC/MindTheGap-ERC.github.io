@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MtG_webpage",
+    "section": "",
+    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nWe are funded by the European Union’s European Research Council Starting Grant awarded to Emilia Jarochowska (2023-2028).\nThis project is a consortium composed by Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM."
+  },
+  {
+    "objectID": "index.html#quantifying-the-completeness-of-the-stratigraphic-record-and-its-role-in-reconstructing-the-tempo-and-mode-of-evolution",
+    "href": "index.html#quantifying-the-completeness-of-the-stratigraphic-record-and-its-role-in-reconstructing-the-tempo-and-mode-of-evolution",
+    "title": "MtG_webpage",
+    "section": "",
+    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nWe are funded by the European Union’s European Research Council Starting Grant awarded to Emilia Jarochowska (2023-2028).\nThis project is a consortium composed by Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM."
+  },
+  {
     "objectID": "subpages/teaching.html",
     "href": "subpages/teaching.html",
     "title": "teaching",
     "section": "",
     "text": "Teaching is fun"
-  },
-  {
-    "objectID": "subpages/software.html",
-    "href": "subpages/software.html",
-    "title": "software",
-    "section": "",
-    "text": "All the Software goes here"
   },
   {
     "objectID": "subpages/pub.html",
@@ -28,18 +35,18 @@
     "text": "archives and repositories go here"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MtG_webpage",
+    "objectID": "subpages/software.html",
+    "href": "subpages/software.html",
+    "title": "software",
     "section": "",
-    "text": "Welcome to the webpage of the project. We develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nWe are funded by the European Union’s European Research Council Starting Grant awarded to Emilia Jarochowska (2023-2028).\nThis project is a consortium composed by Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM."
+    "text": "All the Software goes here"
   },
   {
-    "objectID": "index.html#quantifying-the-completeness-of-the-stratigraphic-record-and-its-role-in-reconstructing-the-tempo-and-mode-of-evolution",
-    "href": "index.html#quantifying-the-completeness-of-the-stratigraphic-record-and-its-role-in-reconstructing-the-tempo-and-mode-of-evolution",
-    "title": "MtG_webpage",
+    "objectID": "subpages/student_projects.html",
+    "href": "subpages/student_projects.html",
+    "title": "Student projects",
     "section": "",
-    "text": "Welcome to the webpage of the project. We develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nWe are funded by the European Union’s European Research Council Starting Grant awarded to Emilia Jarochowska (2023-2028).\nThis project is a consortium composed by Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM."
+    "text": "Here is a list of potential student projects in our group:"
   },
   {
     "objectID": "subpages/about.html",
@@ -61,12 +68,5 @@
     "title": "science",
     "section": "",
     "text": "Add amazing science here"
-  },
-  {
-    "objectID": "subpages/student_projects.html",
-    "href": "subpages/student_projects.html",
-    "title": "Student projects",
-    "section": "",
-    "text": "Here is a list of potential student projects in our group:"
   }
 ]
