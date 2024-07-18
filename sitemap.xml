@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://MindTheGap-ERC.github.io/index.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
-  </url>
-  <url>
     <loc>https://MindTheGap-ERC.github.io/subpages/teaching.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MindTheGap-ERC.github.io/subpages/pub.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
-  </url>
-  <url>
-    <loc>https://MindTheGap-ERC.github.io/subpages/archive.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
+    <lastmod>2024-07-18T11:38:14.173Z</lastmod>
   </url>
   <url>
     <loc>https://MindTheGap-ERC.github.io/subpages/software.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
+    <lastmod>2024-07-18T11:38:12.855Z</lastmod>
   </url>
   <url>
-    <loc>https://MindTheGap-ERC.github.io/subpages/student_projects.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
+    <loc>https://MindTheGap-ERC.github.io/subpages/pub.html</loc>
+    <lastmod>2024-07-18T11:38:11.380Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MindTheGap-ERC.github.io/subpages/archive.html</loc>
+    <lastmod>2024-07-18T11:38:10.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MindTheGap-ERC.github.io/index.html</loc>
+    <lastmod>2024-07-18T11:38:08.994Z</lastmod>
   </url>
   <url>
     <loc>https://MindTheGap-ERC.github.io/subpages/about.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
+    <lastmod>2024-07-18T11:38:09.579Z</lastmod>
   </url>
   <url>
     <loc>https://MindTheGap-ERC.github.io/subpages/ppl.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
+    <lastmod>2024-07-18T11:38:10.779Z</lastmod>
   </url>
   <url>
     <loc>https://MindTheGap-ERC.github.io/subpages/science.html</loc>
-    <lastmod>2024-07-18T11:32:20.842Z</lastmod>
+    <lastmod>2024-07-18T11:38:12.057Z</lastmod>
+  </url>
+  <url>
+    <loc>https://MindTheGap-ERC.github.io/subpages/student_projects.html</loc>
+    <lastmod>2024-07-18T11:38:13.565Z</lastmod>
   </url>
 </urlset>
