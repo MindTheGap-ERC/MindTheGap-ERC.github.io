@@ -1,0 +1,37 @@
+project:
+  type: website
+  
+execute:
+  freeze: auto
+
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: subpages/ppl.qmd
+        text: "People"
+      - href: subpages/student_projects.qmd
+        text: "Student projects" 
+      - href: subpages/science.qmd
+        text: "Science"
+      - href: subpages/software.qmd
+        text: "Software"
+      - href: subpages/pub.qmd
+        text: "Publications"
+      - href: subpages/teaching.qmd
+        text: "Teaching"
+      - href: subpages/archive.qmd
+        text: "Archives and repositories"
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
