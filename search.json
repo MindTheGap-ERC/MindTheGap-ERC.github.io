@@ -2,23 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MtG_webpage",
+    "title": "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution",
     "section": "",
-    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nWe are funded by the European Union’s European Research Council Starting Grant awarded to Emilia Jarochowska (2023-2028).\nThis project is a consortium composed by Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM."
-  },
-  {
-    "objectID": "index.html#quantifying-the-completeness-of-the-stratigraphic-record-and-its-role-in-reconstructing-the-tempo-and-mode-of-evolution",
-    "href": "index.html#quantifying-the-completeness-of-the-stratigraphic-record-and-its-role-in-reconstructing-the-tempo-and-mode-of-evolution",
-    "title": "MtG_webpage",
-    "section": "",
-    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nWe are funded by the European Union’s European Research Council Starting Grant awarded to Emilia Jarochowska (2023-2028).\nThis project is a consortium composed by Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM."
-  },
-  {
-    "objectID": "subpages/teaching.html",
-    "href": "subpages/teaching.html",
-    "title": "teaching",
-    "section": "",
-    "text": "Teaching is fun"
+    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nThis project is a consortium between Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM.\nFunded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them."
   },
   {
     "objectID": "subpages/pub.html",
@@ -28,11 +14,11 @@
     "text": "Publications go yeeeey"
   },
   {
-    "objectID": "subpages/archive.html",
-    "href": "subpages/archive.html",
-    "title": "archive",
+    "objectID": "subpages/ppl.html",
+    "href": "subpages/ppl.html",
+    "title": "Team",
     "section": "",
-    "text": "archives and repositories go here"
+    "text": "Emilia Jarochowska\nPrincipal Investigator\nUtrecht University\nemail: e.b.jarochowska [at] uu.nl\nWeb page: www.uu.nl/staff/EBJarochowska\nORCID: 0000-0001-8937-9405\nXianyi Liu\nPostdoctoral researcher\nUtrecht University\nemail: x.liu6 [at] uu.nl\nWeb page: www.uu.nl/staff/XLiu6\nORCID: 0000-0002-3851-116X\nNiklas Hohmann\nPhD student\nUtrecht University\nemail: n.h.hohmann [at] uu.nl\nWeb page: www.uu.nl/staff/NHohmann\nORCID: 0000-0003-1559-1838\nHanno Spreeuw\nResearch Software Engineer\nNetherlands eScience Center\nemail: h.spreeuw [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/dr-hanno-spreeuw/\nORCID: 0000-0002-5057-0322\nJohan Hidding\nResearch Software Engineer\nNetherlands eScience Center\nemail: j.hidding [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/johan-hidding-msc/\nPeter Burgess\nCollaborator\nUniversity of Liverpool\nWeb page: www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess\nORCID: 0000-0002-3812-4231\nDavid De Vleeschouwer\nCollaborator\nWestfälische Wilhelms-Universität Münster\nWeb page: www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer\nORCID: 0000-0002-3323-807X"
   },
   {
     "objectID": "subpages/software.html",
@@ -40,27 +26,6 @@
     "title": "software",
     "section": "",
     "text": "All the Software goes here"
-  },
-  {
-    "objectID": "subpages/student_projects.html",
-    "href": "subpages/student_projects.html",
-    "title": "Student projects",
-    "section": "",
-    "text": "Here is a list of potential student projects in our group:"
-  },
-  {
-    "objectID": "subpages/about.html",
-    "href": "subpages/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "subpages/ppl.html",
-    "href": "subpages/ppl.html",
-    "title": "Team",
-    "section": "",
-    "text": "Emilia Jarochowska\nPrincipal Investigator\nUtrecht University\nemail: e.b.jarochowska [at] uu.nl\nWeb page: www.uu.nl/staff/EBJarochowska\nORCID: 0000-0001-8937-9405\nXianyi Liu\nPostdoctoral researcher\nUtrecht University\nemail: x.liu6 [at] uu.nl\nWeb page: www.uu.nl/staff/XLiu6\nORCID: 0000-0002-3851-116X\nNiklas Hohmann\nPhD student\nUtrecht University\nemail: n.h.hohmann [at] uu.nl\nWeb page: www.uu.nl/staff/NHohmann\nORCID: 0000-0003-1559-1838\nHanno Spreeuw\nResearch Software Engineer\nNetherlands eScience Center\nemail: h.spreeuw [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/dr-hanno-spreeuw/\nORCID: 0000-0002-5057-0322\nJohan Hidding\nResearch Software Engineer\nNetherlands eScience Center\nemail: j.hidding [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/johan-hidding-msc/\nPeter Burgess\nCollaborator\nUniversity of Liverpool\nWeb page: www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess\nORCID: 0000-0002-3812-4231\nDavid De Vleeschouwer\nCollaborator\nWestfälische Wilhelms-Universität Münster\nWeb page: www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer\nORCID: 0000-0002-3323-807X"
   },
   {
     "objectID": "subpages/science.html",
@@ -89,5 +54,33 @@
     "title": "Science",
     "section": "Reconstruct evolution at the 104-105 years scale from empirical geological data",
     "text": "Reconstruct evolution at the 104-105 years scale from empirical geological data\nmodern evolutionary trees are constructed almost exclusively from genetic and morphological data of living or fossilized organisms. They disregard species which have not been sampled, even though they form the majority of the history of any lineage, and the majority of geological information in what environments and at what times in the Earth’s history these species occurred, which could inform us on the environmental context of past evolutionary events, is not or underused.\nWe develop not only methods, software and research applications, but also workshops and teaching materials on how to account for the structure of the stratigraphic record in evolutionary studies. The key tool developed in this projects is the admtools package for R, which allows constructing age-depth models free of any build-in assumptions and apply it to phylogenetic trees, records of trait evolution, proxy data and essentially any variables that can be recovered from the rock record."
+  },
+  {
+    "objectID": "subpages/about.html",
+    "href": "subpages/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "subpages/teaching.html",
+    "href": "subpages/teaching.html",
+    "title": "teaching",
+    "section": "",
+    "text": "Teaching is fun"
+  },
+  {
+    "objectID": "subpages/student_projects.html",
+    "href": "subpages/student_projects.html",
+    "title": "Student projects",
+    "section": "",
+    "text": "Here is a list of potential student projects in our group:"
+  },
+  {
+    "objectID": "subpages/archive.html",
+    "href": "subpages/archive.html",
+    "title": "archive",
+    "section": "",
+    "text": "archives and repositories go here"
   }
 ]
