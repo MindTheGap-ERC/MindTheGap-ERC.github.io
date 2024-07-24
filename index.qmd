@@ -1,15 +1,13 @@
 ---
-title: "MtG_webpage"
+title: "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution"
 ---
 
-## Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution 
+![](img/logo_tree_horizontal_ERC_square.png){fig-alt="MindTheGap project logo"}
 
-Welcome to the webpage of the project. 
+Welcome to the webpage of the project.
 
-We develop numerical models to study the structure of the geological record.
-Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.
+We develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.
 
+This project is a consortium between [Utrecht University](https://www.uu.nl/en/research/department-of-earth-sciences) and [the Netherlands eScience Center](https://www.esciencecenter.nl/). Some software used and developed in this project is a continuation of [AstroTOM](https://github.com/astro-turing).
 
-We are funded by the European Union's European Research Council Starting Grant awarded to [Emilia Jarochowska](https://www.uu.nl/staff/EBJarochowska) (2023-2028).
-
-This project is a consortium composed by [Utrecht University](https://www.uu.nl/en/research/department-of-earth-sciences) and [the Netherlands eScience Center](https://www.esciencecenter.nl/). Some software used and developed in this project is a continuation of [AstroTOM](https://github.com/astro-turing).
+*Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*
