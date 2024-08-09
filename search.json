@@ -4,28 +4,7 @@
     "href": "index.html",
     "title": "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution",
     "section": "",
-    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nThis project is a consortium between Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM.\nFunded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them."
-  },
-  {
-    "objectID": "subpages/pub.html",
-    "href": "subpages/pub.html",
-    "title": "pub",
-    "section": "",
-    "text": "Publications go yeeeey"
-  },
-  {
-    "objectID": "subpages/ppl.html",
-    "href": "subpages/ppl.html",
-    "title": "Team",
-    "section": "",
-    "text": "Emilia Jarochowska\nPrincipal Investigator\nUtrecht University\nemail: e.b.jarochowska [at] uu.nl\nWeb page: www.uu.nl/staff/EBJarochowska\nORCID: 0000-0001-8937-9405\nXianyi Liu\nPostdoctoral researcher\nUtrecht University\nemail: x.liu6 [at] uu.nl\nWeb page: www.uu.nl/staff/XLiu6\nORCID: 0000-0002-3851-116X\nNiklas Hohmann\nPhD student\nUtrecht University\nemail: n.h.hohmann [at] uu.nl\nWeb page: www.uu.nl/staff/NHohmann\nORCID: 0000-0003-1559-1838\nHanno Spreeuw\nResearch Software Engineer\nNetherlands eScience Center\nemail: h.spreeuw [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/dr-hanno-spreeuw/\nORCID: 0000-0002-5057-0322\nJohan Hidding\nResearch Software Engineer\nNetherlands eScience Center\nemail: j.hidding [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/johan-hidding-msc/\nPeter Burgess\nCollaborator\nUniversity of Liverpool\nWeb page: www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess\nORCID: 0000-0002-3812-4231\nDavid De Vleeschouwer\nCollaborator\nWestfälische Wilhelms-Universität Münster\nWeb page: www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer\nORCID: 0000-0002-3323-807X"
-  },
-  {
-    "objectID": "subpages/software.html",
-    "href": "subpages/software.html",
-    "title": "software",
-    "section": "",
-    "text": "All the Software goes here"
+    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record and make better recontructions of past evolutionary dynamics. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nThis project is a consortium between Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM.\nFunded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them."
   },
   {
     "objectID": "subpages/science.html",
@@ -56,31 +35,115 @@
     "text": "Reconstruct evolution at the 104-105 years scale from empirical geological data\nmodern evolutionary trees are constructed almost exclusively from genetic and morphological data of living or fossilized organisms. They disregard species which have not been sampled, even though they form the majority of the history of any lineage, and the majority of geological information in what environments and at what times in the Earth’s history these species occurred, which could inform us on the environmental context of past evolutionary events, is not or underused.\nWe develop not only methods, software and research applications, but also workshops and teaching materials on how to account for the structure of the stratigraphic record in evolutionary studies. The key tool developed in this projects is the admtools package for R, which allows constructing age-depth models free of any build-in assumptions and apply it to phylogenetic trees, records of trait evolution, proxy data and essentially any variables that can be recovered from the rock record."
   },
   {
-    "objectID": "subpages/about.html",
-    "href": "subpages/about.html",
-    "title": "About",
+    "objectID": "subpages/archive.html",
+    "href": "subpages/archive.html",
+    "title": "Datasets",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "subpages/teaching.html",
-    "href": "subpages/teaching.html",
-    "title": "teaching",
-    "section": "",
-    "text": "Teaching is fun"
+    "text": "Hohmann, N., Koelewijn, J. R., & Jarochowska, E. (2024). Identification of the Mode of Evolution in Incomplete Carbonate Successions - Supporting Data."
   },
   {
     "objectID": "subpages/student_projects.html",
     "href": "subpages/student_projects.html",
     "title": "Student projects",
     "section": "",
-    "text": "Here is a list of potential student projects in our group:"
+    "text": "If you are interested in:\nplease get in touch about possible student projects. We offer: training, intensive supervision with many contact hours, a closely-knit team, potential contribution to a publication and tailoring to different study and career paths."
   },
   {
-    "objectID": "subpages/archive.html",
-    "href": "subpages/archive.html",
-    "title": "archive",
+    "objectID": "subpages/student_projects.html#reconstructing-spatial-changes-in-the-bahamas",
+    "href": "subpages/student_projects.html#reconstructing-spatial-changes-in-the-bahamas",
+    "title": "Student projects",
+    "section": "Reconstructing spatial changes in the Bahamas",
+    "text": "Reconstructing spatial changes in the Bahamas\nThe Bahamas are THE carbonate platform, a classic sandbox for all carbonate sedimentologists and marine ecologists studying tropical environments. Models of reef growth and sediment formation originate from the Bahamas. They are a fantastic case for studying the interaction between organisms and the marine and terrestrial landforms. Corals, algae, mangroves and seagrass are ecosystem engineers, which transform the seabed and the coastline, stabilizing it and creating spatial patterns reflecting their habitat and dispersal.\nBut one element is missing: the temporal aspect. We know how the organisms and environments are distributed today, but how fast do they move? We have secured access to a unique archive of the first aerial photographs of the Bahamas, dating back to the forties, and digitized them in collaboration with Sam Purkis (Rosenstiel School of Marine, Atmospheric, and Earth Science, University of Miami).\nThe goal of the project is to quantify how the spatial distribution of environments changed at the time scale of a century.\n\n\n\n\n\nWe expect that you spend part of your project doing analysis using image processing software and are willing to read up textbook material about carbonate sedimentology and geomorphology appropriate to your study level.\nContact: Xianyi Liu and Emilia Jarochowska"
+  },
+  {
+    "objectID": "subpages/student_projects.html#stratigraphic-paleobiology-in-carbonate-platforms",
+    "href": "subpages/student_projects.html#stratigraphic-paleobiology-in-carbonate-platforms",
+    "title": "Student projects",
+    "section": "Stratigraphic Paleobiology in Carbonate Platforms",
+    "text": "Stratigraphic Paleobiology in Carbonate Platforms\n\nContext\nLast occurrences of fossil taxa are of great importance for paleontologists. In biostratigraphy, they provide important information about relative ages of rocks and outcrops. Clusters of last occurrences indicate a mass extinction, potentially due to rapid environmental changes (e.g. climate change, volcanic eruptions, widespread anoxia).\nHowever, this is not the only explanation for last occurrences. Every taxon lives only in specific environments, characterized by specific environmental conditions (water depth, light availability, substrate consistency, wave energy etc.). Taxa will migrate in space and time with their preferred living conditions (their niche). Last occurrences observed on the fossil record do not necessarily correspond to the extinction of a taxon, but can also be a result of local changes in environmental conditions that result in the taxon disappearing locally.\n\n\nProject goal\nThe effect of taxa tracking their niche on last occurrences has been studied extensively by Holland & Patzkowsky (2012). However, their work focuses on siliciclastic systems. The aim of this project is to exapand upon their work by translating it to carbonate systems, which form the majority of the tropical fossil record.\nIn this project, the CarboKitten.jl or CarboCAT models (Burgess 2013) will be used to simulate carbonate platforms and track environmental conditions with time. The outputs will be combined with species niche modeling in R to generate a synthetic fossil record, and examine how last occurrences systematically change along an onshore-offshore gradient and across facies boundaries and hiatuses.\n\n\nSkills and Knowledge\nDuring the project, you will learn the following skills:\n\nBasin modeling\nSpecies niche modeling and data analysis in R\nLiterature research using Zotero and researchrabbit\nVersion control using Git and GitHub\nScientific writing\n\nYou will acquire knowledge about the following topics:\n\nStratigraphic paleobiology\nEcological niche models\nCarbonate sedimentology\n\n\n\nRequirements\nBasic coding skills in any modern programming language. It is not necessary to be familiar with R or Python, but some readiness to learn is needed. You will not have to write code from scratch (unless you want to), but work with existing code and modify it to your needs.\n\n\nReferences\n\nHolland, S.M. and Patzkowsky, M.E. (2015), The stratigraphy of mass extinction. Palaeontology, 58: 903-924.\nKidwell, Susan M., and Steven M. Holland. “The quality of the fossil record: implications for evolutionary analyses.” Annual Review of Ecology and Systematics 33.1 (2002): 561-588.\nPatzkowsky, Mark E., and Steven M. Holland. “Stratigraphic paleobiology.” University of Chicago Press, 2012.\nBurgess, Peter M. “CarboCAT: A cellular automata model of heterogeneous carbonate strata.” Computers & geosciences 53 (2013): 129-140.\n\nContact: Niklas Hohmann and Emilia Jarochowska"
+  },
+  {
+    "objectID": "subpages/student_projects.html#orbital-controls-of-coral-growth",
+    "href": "subpages/student_projects.html#orbital-controls-of-coral-growth",
+    "title": "Student projects",
+    "section": "Orbital Controls of Coral Growth",
+    "text": "Orbital Controls of Coral Growth\nReefs are important paleontological archives that provide insights into past life and climate. One of the major controls on reef growth is energy provided in the form of sunlight. Over geological timescales, energy input is changing systematically due to periodic variations in the earth’s orbit around the sun (Milankovitch cyclicity). This orbital forcing is a major driver of climate change and source of information to derive age constraint for evolutionary studies. As a result, archive and signal are coupled, creating the potential for non-linear feedbacks and biases on how past climate is reconstructed.\nThe goal of this project is to study this feedback, specifically how\n\ncarbonate production is influenced by spatial and temporal variations of insolation\ninsolation driven variability in carbonate production changes the structure of stratigraphic columns and, in turn, inferences on orbital forcing drawn from them.\n\nFor this, insolation values from the palinsol package for the R software will be combined with the carbonate growth model from Boscher & Schlager (1992) to generate synthetic carbonate stratigraphies. These will be compared with each other to examine how they differ through time and space, and the approach from Kemp et al. (2016) will be used to examine under which circumstances the original orbital signal can be recovered from them.\n\nReferences:\n\nR package palinsol\nBosscher, Hemmo, and Wolfgang Schlager. “Computer simulation of reef growth.” Sedimentology 39.3 (1992): 503-512. Kemp, David B., et al. “Investigating the preservation of orbital forcing in peritidal carbonates.” Sedimentology 63.6 (2016): 1701-1718."
+  },
+  {
+    "objectID": "subpages/student_projects.html#numerics-of-carbonate-accumulation",
+    "href": "subpages/student_projects.html#numerics-of-carbonate-accumulation",
+    "title": "Student projects",
+    "section": "Numerics of carbonate accumulation",
+    "text": "Numerics of carbonate accumulation\nSimulations of carbonate growth (e.g. Boscher & Schlager 1992) are based on discrete time steps in the order of kiloyears. This corresponds to a simple Euler method applied to a continuous-time differential equation. The aim of the project is to derive the underlying differential equation, show the existence of a solution, and examine its numerical behaviour with a focus on\n\nscaling properties over longer time scales and\npotential errors introduced by the simplified solution methods applied in previous publications\n\n\nLiterature:\n\nBosscher, Hemmo, and Wolfgang Schlager. “Computer simulation of reef growth.” Sedimentology 39.3 (1992): 503-512."
+  },
+  {
+    "objectID": "subpages/student_projects.html#the-memory-of-the-stratigraphic-record-with-peter-burgess",
+    "href": "subpages/student_projects.html#the-memory-of-the-stratigraphic-record-with-peter-burgess",
+    "title": "Student projects",
+    "section": "The memory of the stratigraphic record (with Peter Burgess?)",
+    "text": "The memory of the stratigraphic record (with Peter Burgess?)\nSuccessions of facies are commonly modeled via transition matrices that describe the transition probabilities / rates between facies. This assumes that the stratigraphic record is memorylessness and can thus be modeled via a Markov chain. The aim of the project is to test this assumption. A stratigraphic record with a longer memory can be modeled as a Markov chain of n-th order after expanding the state space. In the project, the student will assess how memory length of Markov chain models affects the capability to explain empirically observed stratigraphic successions."
+  },
+  {
+    "objectID": "subpages/student_projects.html#other-topics",
+    "href": "subpages/student_projects.html#other-topics",
+    "title": "Student projects",
+    "section": "Other topics",
+    "text": "Other topics\n\nTaphonomy across the agronomic revolution\nPreservation of Regime Shifts, Resilience, and Recovery in Modern Marine Environments"
+  },
+  {
+    "objectID": "subpages/ppl.html",
+    "href": "subpages/ppl.html",
+    "title": "Team",
     "section": "",
-    "text": "archives and repositories go here"
+    "text": "Emilia Jarochowska\nPrincipal Investigator\nUtrecht University\nemail: e.b.jarochowska [at] uu.nl\nWeb page: www.uu.nl/staff/EBJarochowska\nORCID: 0000-0001-8937-9405\nXianyi Liu\nPostdoctoral researcher\nUtrecht University\nemail: x.liu6 [at] uu.nl\nWeb page: www.uu.nl/staff/XLiu6\nORCID: 0000-0002-3851-116X\nNiklas Hohmann\nPhD student\nUtrecht University\nemail: n.h.hohmann [at] uu.nl\nWeb page: www.uu.nl/staff/NHohmann\nORCID: 0000-0003-1559-1838\nHanno Spreeuw\nResearch Software Engineer\nNetherlands eScience Center\nemail: h.spreeuw [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/dr-hanno-spreeuw/\nORCID: 0000-0002-5057-0322\nJohan Hidding\nResearch Software Engineer\nNetherlands eScience Center\nemail: j.hidding [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/johan-hidding-msc/\nPeter Burgess\nCollaborator\nUniversity of Liverpool\nWeb page: www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess\nORCID: 0000-0002-3812-4231\nDavid De Vleeschouwer\nCollaborator\nWestfälische Wilhelms-Universität Münster\nWeb page: www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer\nORCID: 0000-0002-3323-807X\nRachel Warnock\nCollaborator\nFriedrich-Alexander-Universität Erlangen-Nürnberg\nWeb page: https://www.gzn.nat.fau.de/palaeontologie/team/professors/rachel-warnock/"
+  },
+  {
+    "objectID": "subpages/teaching.html",
+    "href": "subpages/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "We developed two educational applications, which can be used online or as desktop versions:\n\nShellbed Condensator\nShiny app visualizing the effects of sedimentary condensation\n\nApp\nGitHub\n\n\n\nDarwin CAT\nShiny app visualizing the effects of carbonate stratigraphy on trait evolution.\n\nApp\nGitHub"
+  },
+  {
+    "objectID": "subpages/software.html",
+    "href": "subpages/software.html",
+    "title": "Software",
+    "section": "",
+    "text": "3D stratigraphic model of tropical carbonate platforms with biological self-organization, developed in Julia\n\nDocumentation\nGitHub\n\n\n\n\n3D stratigraphic model of tropical carbonate platforms with biological self-organization, originally developed by Peter Burgess in MATLAB and modified by us\n\nGitHub"
+  },
+  {
+    "objectID": "subpages/software.html#stratigraphic-forward-models",
+    "href": "subpages/software.html#stratigraphic-forward-models",
+    "title": "Software",
+    "section": "",
+    "text": "3D stratigraphic model of tropical carbonate platforms with biological self-organization, developed in Julia\n\nDocumentation\nGitHub\n\n\n\n\n3D stratigraphic model of tropical carbonate platforms with biological self-organization, originally developed by Peter Burgess in MATLAB and modified by us\n\nGitHub"
+  },
+  {
+    "objectID": "subpages/software.html#reactive-transport-models-of-formation-of-limestone-marl-alternations",
+    "href": "subpages/software.html#reactive-transport-models-of-formation-of-limestone-marl-alternations",
+    "title": "Software",
+    "section": "Reactive-transport models of formation of limestone-marl alternations",
+    "text": "Reactive-transport models of formation of limestone-marl alternations\n\nmarlpde\nReactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by L’Heureux (2018) in Python using py-pde\n\nGitHub\n\n\n\nrhythmite\nReactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by L’Heureux (2018) in Python, made for our project by Cedric Thieulot and Charlotte Summers\n\nGitHub\n\n\n\nmarlpde in FORTRAN\nReactive-transport model simulating formation of limestone-marl alternations: original implementation of the model by L’Heureux (2018) in FORTRAN, with various corrections by ourselves\n\nGitHub\n\n\n\nLMA-Matlab\nReactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by L’Heureux (2018) in MATLAB\n\nGitHub\n\nThis package is not developed anymore. Please check the implementations in open languages."
+  },
+  {
+    "objectID": "subpages/software.html#nature-of-the-stratigraphic-record",
+    "href": "subpages/software.html#nature-of-the-stratigraphic-record",
+    "title": "Software",
+    "section": "Nature of the stratigraphic record",
+    "text": "Nature of the stratigraphic record\n\nadmtools\nR package to estimate age-depth models from stratigraphic and sedimentological data, and transform complex data between the time and stratigraphic domain\n\nDocumentation\nGitHub\n\n\n\nStratPal\nR package for Stratigraphic Paleobiology\n\nGitHub\nDocumentation\n\n\n\nPartiMoDe\nModeling Particle Movement and Destruction in the sediment surface mixed layer\n\nGitHub"
+  },
+  {
+    "objectID": "subpages/software.html#education",
+    "href": "subpages/software.html#education",
+    "title": "Software",
+    "section": "Education",
+    "text": "Education\n\nShellbed Condensator\nShiny app visualizing the effects of sedimentary condensation\n\nApp\nGitHub\n\n\n\nDarwin CAT\nShiny app visualizing the effects of carbonate stratigraphy on trait evolution.\n\nApp\nGitHub"
+  },
+  {
+    "objectID": "subpages/pub.html",
+    "href": "subpages/pub.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Hohmann, N., Koelewijn, J. R., Burgess, P., & Jarochowska, E. (in press). Identification of the mode of evolution in incomplete carbonate successions. BMC Ecology & Evolution. See the preprint at biorXiv and reviews and recommendations at PCI Paleo"
   }
 ]
