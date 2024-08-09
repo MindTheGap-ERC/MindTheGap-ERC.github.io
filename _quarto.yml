@@ -25,7 +25,6 @@ website:
         text: "Teaching"
       - href: subpages/archive.qmd
         text: "Archives and repositories"
-      - about.qmd
 
 format:
   html:
