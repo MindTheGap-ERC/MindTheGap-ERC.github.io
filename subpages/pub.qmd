@@ -1,6 +1,5 @@
 ---
-title: "pub"
+title: "Publications"
 ---
 
-
-Publications go yeeeey
+Hohmann, N., Koelewijn, J. R., Burgess, P., & Jarochowska, E. (in press). Identification of the mode of evolution in incomplete carbonate successions. *BMC Ecology & Evolution*. See the preprint at [biorXiv](https://doi.org/10.1101/2023.12.18.572098) and [reviews and recommendations at PCI Paleo](https://paleo.peercommunityin.org/articles/rec?id=289)

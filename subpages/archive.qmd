@@ -1,5 +1,5 @@
 ---
-title: "archive"
+title: "Datasets"
 ---
 
-archives and repositories go here
+Hohmann, N., Koelewijn, J. R., & Jarochowska, E. (2024). [Identification of the Mode of Evolution in Incomplete Carbonate Successions - Supporting Data.](https://doi.org/10.17605/OSF.IO/ZBPWA) 

@@ -1,6 +1,89 @@
 ---
-title: "software"
-editor: visual
+title: "Software"
 ---
 
-All the Software goes here
+## Stratigraphic forward models
+
+### CarboKitten.jl
+
+3D stratigraphic model of tropical carbonate platforms with biological self-organization, developed in Julia
+
+-   [Documentation](https://mindthegap-erc.github.io/CarboKitten.jl/dev/)
+
+-   [GitHub](https://github.com/MindTheGap-ERC/CarboKitten.jl)
+
+### CarboCAT Lite
+
+3D stratigraphic model of tropical carbonate platforms with biological self-organization, originally developed by Peter Burgess in MATLAB and modified by us
+
+-   [GitHub](https://github.com/MindTheGap-ERC/CarboCATLite)
+
+## Reactive-transport models of formation of limestone-marl alternations
+
+### marlpde
+
+Reactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by [L'Heureux (2018)](https://www.hindawi.com/journals/geofluids/2018/4968315/) in Python using `py-pde`
+
+-   [GitHub](https://github.com/astro-turing/Integrating-diagenetic-equations-using-Python)
+
+### rhythmite
+
+Reactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by [L'Heureux (2018)](https://www.hindawi.com/journals/geofluids/2018/4968315/) in Python, made for our project by Cedric Thieulot and Charlotte Summers
+
+-   [GitHub](https://github.com/cedrict/rhythmite)
+
+### marlpde in FORTRAN
+
+Reactive-transport model simulating formation of limestone-marl alternations: original implementation of the model by [L'Heureux (2018)](https://www.hindawi.com/journals/geofluids/2018/4968315/) in FORTRAN, with various corrections by ourselves
+
+-   [GitHub](https://github.com/astro-turing/Diagenetic_model_LHeureux_2018)
+
+### LMA-Matlab
+
+Reactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by [L'Heureux (2018)](https://www.hindawi.com/journals/geofluids/2018/4968315/) in MATLAB
+
+-   [GitHub](https://github.com/MindTheGap-ERC/LMA-Matlab)
+
+This package is not developed anymore. Please check the implementations in open languages.
+
+## Nature of the stratigraphic record
+
+### admtools
+
+R package to estimate age-depth models from stratigraphic and sedimentological data, and transform complex data between the time and stratigraphic domain
+
+-   [Documentation](https://mindthegap-erc.github.io/admtools/)
+
+-   [GitHub](https://github.com/MindTheGap-ERC/admtools)
+
+### StratPal
+
+R package for Stratigraphic Paleobiology
+
+-   [GitHub](https://github.com/MindTheGap-ERC/StratPal)
+
+-   [Documentation](https://mindthegap-erc.github.io/StratPal/)
+
+### PartiMoDe
+
+Modeling Particle Movement and Destruction in the sediment surface mixed layer
+
+-   [GitHub](https://github.com/MindTheGap-ERC/PartiMoDe)
+
+## Education
+
+### Shellbed Condensator
+
+Shiny app visualizing the effects of sedimentary condensation
+
+-   [App](https://stratigraphicpaleobiology.shinyapps.io/shellbed_condensator/)
+
+-   [GitHub](https://github.com/MindTheGap-ERC/ShellbedCondensator)
+
+### Darwin CAT
+
+Shiny app visualizing the effects of carbonate stratigraphy on trait evolution.
+
+-   [App](https://stratigraphicpaleobiology.shinyapps.io/DarwinCAT/)
+
+-   [GitHub](https://github.com/MindTheGap-ERC/DarwinCAT)

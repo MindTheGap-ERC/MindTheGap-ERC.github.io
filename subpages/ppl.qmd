@@ -2,55 +2,55 @@
 title: "Team"
 ---
 
-__Emilia Jarochowska__  
-Principal Investigator  
-Utrecht University  
-email: e.b.jarochowska [at] uu.nl  
-Web page: [www.uu.nl/staff/EBJarochowska](https://www.uu.nl/staff/EBJarochowska)  
+![](../img/Emilia.jpg){fig-align="left" width="200"}
+
+**Emilia Jarochowska**\
+Principal Investigator\
+Utrecht University\
+email: e.b.jarochowska \[at\] uu.nl\
+Web page: [www.uu.nl/staff/EBJarochowska](https://www.uu.nl/staff/EBJarochowska)\
 ORCID: [0000-0001-8937-9405](https://orcid.org/0000-0001-8937-9405)
 
-__Xianyi Liu__  
-Postdoctoral researcher  
-Utrecht University  
-email: x.liu6 [at] uu.nl  
-Web page: [www.uu.nl/staff/XLiu6](https://www.uu.nl/staff/XLiu6)  
+**Xianyi Liu**\
+Postdoctoral researcher\
+Utrecht University\
+email: x.liu6 \[at\] uu.nl\
+Web page: [www.uu.nl/staff/XLiu6](https://www.uu.nl/staff/XLiu6)\
 ORCID: [0000-0002-3851-116X](https://orcid.org/0000-0002-3851-116X)
 
-__Niklas Hohmann__  
-PhD student  
-Utrecht University  
-email: n.h.hohmann [at] uu.nl  
-Web page: [www.uu.nl/staff/NHohmann](https://www.uu.nl/staff/NHHohmann)  
+**Niklas Hohmann**\
+PhD student\
+Utrecht University\
+email: n.h.hohmann \[at\] uu.nl\
+Web page: [www.uu.nl/staff/NHohmann](https://www.uu.nl/staff/NHHohmann)\
 ORCID: [0000-0003-1559-1838](https://orcid.org/0000-0003-1559-1838)
 
-__Hanno Spreeuw__  
-Research Software Engineer  
-Netherlands eScience Center  
-email: h.spreeuw [at] esciencecenter.nl  
-Web page: [www.esciencecenter.nl/team/dr-hanno-spreeuw/](https://www.esciencecenter.nl/team/dr-hanno-spreeuw)  
+**Hanno Spreeuw**\
+Research Software Engineer\
+Netherlands eScience Center\
+email: h.spreeuw \[at\] esciencecenter.nl\
+Web page: [www.esciencecenter.nl/team/dr-hanno-spreeuw/](https://www.esciencecenter.nl/team/dr-hanno-spreeuw)\
 ORCID: [0000-0002-5057-0322](https://orcid.org/0000-0002-5057-0322)
 
-__Johan Hidding__  
-Research Software Engineer  
-Netherlands eScience Center  
-email: j.hidding [at] esciencecenter.nl   
-Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencecenter.nl/team/johan-hidding-msc/)  
+**Johan Hidding**\
+Research Software Engineer\
+Netherlands eScience Center\
+email: j.hidding \[at\] esciencecenter.nl\
+Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencecenter.nl/team/johan-hidding-msc/)
 
-__Peter Burgess__  
-Collaborator  
-University of Liverpool  
-Web page: [www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess](https://www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess/)  
+**Peter Burgess**\
+Collaborator\
+University of Liverpool\
+Web page: [www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess](https://www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess/)\
 ORCID: [0000-0002-3812-4231](https://orcid.org/0000-0002-3812-4231)
 
-__David De Vleeschouwer__  
-Collaborator  
-Westfälische Wilhelms-Universität Münster  
-Web page: [www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer](https://www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer.html)  
+**David De Vleeschouwer**\
+Collaborator\
+Westfälische Wilhelms-Universität Münster\
+Web page: [www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer](https://www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer.html)\
 ORCID: [0000-0002-3323-807X](https://orcid.org/0000-0002-3323-807X)
 
-
-
-
-
-
-
+**Rachel Warnock**\
+Collaborator\
+Friedrich-Alexander-Universität Erlangen-Nürnberg\
+Web page: <https://www.gzn.nat.fau.de/palaeontologie/team/professors/rachel-warnock/>

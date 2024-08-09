@@ -1,5 +1,21 @@
 ---
-title: "teaching"
+title: "Teaching"
 ---
 
-Teaching is fun
+We developed two educational applications, which can be used online or as desktop versions:
+
+### Shellbed Condensator
+
+Shiny app visualizing the effects of sedimentary condensation
+
+-   [App](https://stratigraphicpaleobiology.shinyapps.io/shellbed_condensator/)
+
+-   [GitHub](https://github.com/MindTheGap-ERC/ShellbedCondensator)
+
+### Darwin CAT
+
+Shiny app visualizing the effects of carbonate stratigraphy on trait evolution.
+
+-   [App](https://stratigraphicpaleobiology.shinyapps.io/DarwinCAT/)
+
+-   [GitHub](https://github.com/MindTheGap-ERC/DarwinCAT)

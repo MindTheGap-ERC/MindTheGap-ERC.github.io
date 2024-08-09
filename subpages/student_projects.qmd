@@ -1,7 +1,217 @@
 ---
 title: "Student projects"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-Here is a list of potential student projects in our group:
+If you are interested in:
 
+-   evolution
 
+-   modeling
+
+-   phylogeny
+
+-   integrated stratigraphy
+
+-   biodiversity
+
+-   diagenesis
+
+please [get in touch](mailto:e.b.jarochowska@uu.nl) about possible
+student projects. We offer: training, intensive supervision with many
+contact hours, a closely-knit team, potential contribution to a
+publication and tailoring to different study and career paths.
+
+## Reconstructing spatial changes in the Bahamas
+
+The Bahamas are THE carbonate platform, a classic sandbox for all
+carbonate sedimentologists and marine ecologists studying tropical
+environments. Models of reef growth and sediment formation originate
+from the Bahamas. They are a fantastic case for studying the interaction
+between organisms and the marine and terrestrial landforms. Corals,
+algae, mangroves and seagrass are ecosystem engineers, which transform
+the seabed and the coastline, stabilizing it and creating spatial
+patterns reflecting their habitat and dispersal.
+
+But one element is missing: the temporal aspect. We know how the
+organisms and environments are distributed today, but how fast do they
+move? We have secured access to a unique archive of the first aerial
+photographs of the Bahamas, dating back to the forties, and digitized
+them in collaboration with Sam Purkis (Rosenstiel School of Marine,
+Atmospheric, and Earth Science, University of Miami).
+
+**The goal of the project is to quantify how the spatial distribution of
+environments changed at the time scale of a century.**
+
+![](/img/Bahamas_projec.png){fig-align="center"}
+
+We expect that you spend part of your project doing analysis using image
+processing software and are willing to read up textbook material about
+carbonate sedimentology and geomorphology appropriate to your study
+level.
+
+Contact: [Xianyi Liu](mailto:x.liu6@uu.nl) and [Emilia
+Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
+## Stratigraphic Paleobiology in Carbonate Platforms
+
+#### Context
+
+Last occurrences of fossil taxa are of great importance for
+paleontologists. In biostratigraphy, they provide important information
+about relative ages of rocks and outcrops. Clusters of last occurrences
+indicate a mass extinction, potentially due to rapid environmental
+changes (e.g. climate change, volcanic eruptions, widespread anoxia).
+
+However, this is not the only explanation for last occurrences. Every
+taxon lives only in specific environments, characterized by specific
+environmental conditions (water depth, light availability, substrate
+consistency, wave energy etc.). Taxa will migrate in space and time with
+their preferred living conditions (their niche). Last occurrences
+observed on the fossil record do not necessarily correspond to the
+extinction of a taxon, but can also be a result of local changes in
+environmental conditions that result in the taxon disappearing locally.
+
+#### Project goal
+
+The effect of taxa tracking their niche on last occurrences has been
+studied extensively by Holland & Patzkowsky (2012). However, their work
+focuses on siliciclastic systems. The aim of this project is to exapand
+upon their work by translating it to carbonate systems, which form the
+majority of the tropical fossil record.
+
+In this project, the
+[CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/) or
+[CarboCAT](https://github.com/MindTheGap-ERC/CarboCATLite) models
+(Burgess 2013) will be used to simulate carbonate platforms and track
+environmental conditions with time. The outputs will be combined with
+species niche modeling in R to generate a synthetic fossil record, and
+examine how last occurrences systematically change along an
+onshore-offshore gradient and across facies boundaries and hiatuses.
+
+#### Skills and Knowledge
+
+During the project, you will learn the following skills:
+
+-   Basin modeling
+
+-   Species niche modeling and data analysis in R
+
+-   Literature research using Zotero and researchrabbit
+
+-   Version control using Git and GitHub
+
+-   Scientific writing
+
+You will acquire knowledge about the following topics:
+
+-   Stratigraphic paleobiology
+
+-   Ecological niche models
+
+-   Carbonate sedimentology
+
+#### Requirements
+
+Basic coding skills in any modern programming language. It is not
+necessary to be familiar with R or Python, but some readiness to learn
+is needed. You will not have to write code from scratch (unless you want
+to), but work with existing code and modify it to your needs.
+
+#### References
+
+-   Holland, S.M. and Patzkowsky, M.E. (2015), [The stratigraphy of mass
+    extinction](https://doi.org/10.1111/pala.12188). Palaeontology, 58:
+    903-924.
+
+-   Kidwell, Susan M., and Steven M. Holland. "The quality of the fossil
+    record: implications for evolutionary analyses." Annual Review of
+    Ecology and Systematics 33.1 (2002): 561-588.
+
+-   Patzkowsky, Mark E., and Steven M. Holland. "Stratigraphic
+    paleobiology." University of Chicago Press, 2012.
+
+-   Burgess, Peter M. "CarboCAT: A cellular automata model of
+    heterogeneous carbonate strata." Computers & geosciences 53 (2013):
+    129-140.
+
+Contact: [Niklas Hohmann](mailto:n.h.hohmann@uu.nl) and [Emilia
+Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
+## Orbital Controls of Coral Growth
+
+Reefs are important paleontological archives that provide insights into
+past life and climate. One of the major controls on reef growth is
+energy provided in the form of sunlight. Over geological timescales,
+energy input is changing systematically due to periodic variations in
+the earth's orbit around the sun (Milankovitch cyclicity). This orbital
+forcing is a major driver of climate change and source of information to
+derive age constraint for evolutionary studies. As a result, archive and
+signal are coupled, creating the potential for non-linear feedbacks and
+biases on how past climate is reconstructed.
+
+The goal of this project is to study this feedback, specifically how
+
+-   carbonate production is influenced by spatial and temporal
+    variations of insolation
+
+-   insolation driven variability in carbonate production changes the
+    structure of stratigraphic columns and, in turn, inferences on
+    orbital forcing drawn from them.
+
+For this, insolation values from the `palinsol` package for the R
+software will be combined with the carbonate growth model from Boscher &
+Schlager (1992) to generate synthetic carbonate stratigraphies. These
+will be compared with each other to examine how they differ through time
+and space, and the approach from Kemp et al. (2016) will be used to
+examine under which circumstances the original orbital signal can be
+recovered from them.
+
+#### References:
+
+-   R package [`palinsol`](https://cran.r-project.org/package=palinsol)
+
+-   Bosscher, Hemmo, and Wolfgang Schlager. "Computer simulation of reef
+    growth." Sedimentology 39.3 (1992): 503-512. Kemp, David B., et al.
+    "Investigating the preservation of orbital forcing in peritidal
+    carbonates." Sedimentology 63.6 (2016): 1701-1718.
+
+## Numerics of carbonate accumulation
+
+Simulations of carbonate growth (e.g. Boscher & Schlager 1992) are based
+on discrete time steps in the order of kiloyears. This corresponds to a
+simple Euler method applied to a continuous-time differential equation.
+The aim of the project is to derive the underlying differential
+equation, show the existence of a solution, and examine its numerical
+behaviour with a focus on
+
+1.  scaling properties over longer time scales and
+
+2.  potential errors introduced by the simplified solution methods
+    applied in previous publications
+
+#### Literature:
+
+-   Bosscher, Hemmo, and Wolfgang Schlager. "Computer simulation of reef
+    growth." Sedimentology 39.3 (1992): 503-512.
+
+## The memory of the stratigraphic record (with Peter Burgess?)
+
+Successions of facies are commonly modeled via transition matrices that
+describe the transition probabilities / rates between facies. This
+assumes that the stratigraphic record is memorylessness and can thus be
+modeled via a Markov chain. The aim of the project is to test this
+assumption. A stratigraphic record with a longer memory can be modeled
+as a Markov chain of n-th order after expanding the state space. In the
+project, the student will assess how memory length of Markov chain
+models affects the capability to explain empirically observed
+stratigraphic successions.
+
+## Other topics
+
+-   Taphonomy across the agronomic revolution
+
+-   Preservation of Regime Shifts, Resilience, and Recovery in Modern
+    Marine Environments
