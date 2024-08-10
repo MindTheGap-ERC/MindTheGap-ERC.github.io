@@ -2,6 +2,8 @@
 title: "Software"
 ---
 
+Discover, use and contribute to the Open Source software we develop at [github.com/MindTheGap-ERC](https://github.com/MindTheGap-ERC).
+
 ## Stratigraphic forward models
 
 ### CarboKitten.jl

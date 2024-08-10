@@ -2,6 +2,8 @@
 title: "Teaching"
 ---
 
+![Teaching students the stratigraphy of the Miravete carbonate platform (Cretaceous, Spain). Copyright 2024 K. Peters](/img/IMG_7054.JPG){fig-align="center"}
+
 We developed two educational applications, which can be used online or as desktop versions:
 
 ### Shellbed Condensator

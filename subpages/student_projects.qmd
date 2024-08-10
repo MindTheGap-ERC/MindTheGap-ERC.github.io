@@ -65,6 +65,9 @@ about relative ages of rocks and outcrops. Clusters of last occurrences
 indicate a mass extinction, potentially due to rapid environmental
 changes (e.g. climate change, volcanic eruptions, widespread anoxia).
 
+![Cretaceous carbonate platform at Miravete,
+Spain](/img/IMG_6973.jpg){fig-align="center"}
+
 However, this is not the only explanation for last occurrences. Every
 taxon lives only in specific environments, characterized by specific
 environmental conditions (water depth, light availability, substrate
@@ -197,7 +200,7 @@ behaviour with a focus on
 -   Bosscher, Hemmo, and Wolfgang Schlager. "Computer simulation of reef
     growth." Sedimentology 39.3 (1992): 503-512.
 
-## The memory of the stratigraphic record (with Peter Burgess?)
+## The memory of the stratigraphic record
 
 Successions of facies are commonly modeled via transition matrices that
 describe the transition probabilities / rates between facies. This

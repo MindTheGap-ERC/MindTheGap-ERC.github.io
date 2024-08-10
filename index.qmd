@@ -8,6 +8,14 @@ Welcome to the webpage of the project.
 
 We develop numerical models to study the structure of the geological record and make better recontructions of past evolutionary dynamics. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.
 
-This project is a consortium between [Utrecht University](https://www.uu.nl/en/research/department-of-earth-sciences) and [the Netherlands eScience Center](https://www.esciencecenter.nl/). Some software used and developed in this project is a continuation of [AstroTOM](https://github.com/astro-turing).
+This project is a consortium between [Utrecht University](https://www.uu.nl/en/research/department-of-earth-sciences) and [the Netherlands eScience Center](https://www.esciencecenter.nl/). Some software used and developed in this project is a continuation of [AstroTOM](https://github.com/astro-turing). See also project record at [CORDIS](https://cordis.europa.eu/project/id/101041077).
+
+### Project news
+
+-   We will be teaching a workshop in stratigraphic paleobiology at the [Annual Meeting of *Paläontologische Gesellschaft*](https://www.palaeontologische-gesellschaft.de/en/conferences/annual-meeting/) in Warsaw, using our packages [StratPal](https://mindthegap-erc.github.io/StratPal/) and [admtools](https://mindthegap-erc.github.io/admtools/) developed by Niklas
+
+-   Emilia will be giving a public talk about studying evolution using forward models at [the same conference](https://www.palaeontologische-gesellschaft.de/en/conferences/annual-meeting/)
+
+-   [We are looking for students](subpages/student_projects.html) interested in spatial distribution of carbonate facies using exceptional historical data
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*
