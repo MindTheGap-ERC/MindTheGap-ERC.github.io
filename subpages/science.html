@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This projects bridges two, seemingly inreconcilable, aspects of the Earth’s history: on one had, today’s diversity is only a brief snapshot of the long course of evolution and most species that once lived are only represented in the fossil record. On the other hand, the rock record is “more gaps than strata” - it preserves a fraction of the time and environments that once existed, and even that record is additionally distorted by processes such as transport or chemical reactions in the sediment.</p>
+<p>This projects bridges two, seemingly inreconciliable, aspects of the Earth’s history: on one had, today’s diversity is only a brief snapshot of the long course of evolution and most species that once lived are only represented in the fossil record. On the other hand, the rock record is “more gaps than strata” - it preserves a fraction of the time and environments that once existed, and even that record is additionally distorted by processes such as transport or chemical reactions in the sediment.</p>
 <p>We aim to understand the principles governing the stratigraphic record and apply them to improve evolutionary models, so that our understanding of what is preserved can be incorporated in reconstructing evolutionary relationships.</p>
 <section id="quantitative-constraints-on-evolutionary-reconstructions-due-to-incomplete-record" class="level2">
 <h2 class="anchored" data-anchor-id="quantitative-constraints-on-evolutionary-reconstructions-due-to-incomplete-record">Quantitative constraints on evolutionary reconstructions due to incomplete record</h2>
@@ -162,16 +162,28 @@ ul.task-list li input[type="checkbox"] {
 </ol>
 <p>Our environment of choice are tropical carbonate platforms. We are developing an Open Source carbonate platform model <a href="https://mindthegap-erc.github.io/CarboKitten.jl/">CarboKitten</a>, which is a descendant of <a href="https://github.com/MindTheGap-ERC/CarboCATLite">CarboCAT</a> written by Peter Burgess.</p>
 <p>In order to account for the temporal dynamics of carbonate platforms, we collaborate with Sam Purkis on the spatial changes in the facies distribution in the Bahamas over the last 80 years.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../img/20221013_120937.jpg" class="img-fluid figure-img"></p>
+<figcaption>Devonian strata in the Kowala quarry (Poland)</figcaption>
+</figure>
+</div>
 </section>
 <section id="creating-a-toolbox-to-identify-drivers-of-stratigraphic-architecture" class="level2">
 <h2 class="anchored" data-anchor-id="creating-a-toolbox-to-identify-drivers-of-stratigraphic-architecture">Creating a toolbox to identify drivers of stratigraphic architecture</h2>
 <p>It is, however, still debated whether carbonate stratigraphic architectures are shaped by intrinsic or by external forcing. External forcing include changes in the tilt of the Earth’s axis and shape of the Earth’s orbit around the Sun (Milanković cycles), which affect the insolation of Earth’s surface. These periodic changes are fundamental in models of future and past climate, as well as for creating highly resolved stratigraphic timescales.</p>
 <p>But periodicity formed by orbital forcing (allocyclic processes) is extremely hard to distinguish from autocyclicity, which can emerge through self organization and can take the form of Turing patterns: regular spatial patterns formed by patches of organisms or sediment. Self-organization in carbonate sediments may emerge through ecological processes, such as facilitation, or through hydrodynamic interaction of water with coral reefs or loose sediment.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://mindthegap-erc.github.io/CarboKitten.jl/dev/carbocat-ca/"><img src="../img/b13-long-term.png" class="img-fluid figure-img" alt="Spatial distribution of three carbonate facies modelled using the cellular automaton in CarboKitten.jl"></a></p>
+<figcaption>Spatial distribution of three carbonate facies modelled using the cellular automaton in CarboKitten.jl</figcaption>
+</figure>
+</div>
 <p>We are working on a reactive transport model, originally proposed by Ivan L’Heureux (2018), representing the formation of periodic patterns in sediment composed of a mixture of aragonite and calcite. This part of the project is done in collaboration with Charlotte Summers and Cedric Thieulot at Utrecht University.</p>
 </section>
 <section id="reconstruct-evolution-at-the-104-105-years-scale-from-empirical-geological-data" class="level2">
 <h2 class="anchored" data-anchor-id="reconstruct-evolution-at-the-104-105-years-scale-from-empirical-geological-data">Reconstruct evolution at the 10<sup>4</sup>-10<sup>5</sup> years scale from empirical geological data</h2>
-<p>modern evolutionary trees are constructed almost exclusively from genetic and morphological data of living or fossilized organisms. They disregard species which have not been sampled, even though they form the majority of the history of any lineage, and the majority of geological information in what environments and at what times in the Earth’s history these species occurred, which could inform us on the environmental context of past evolutionary events, is not or underused.</p>
+<p>Modern evolutionary trees are constructed almost exclusively from genetic and morphological data of living or fossilized organisms. They disregard species which have not been sampled, even though they form the majority of the history of any lineage, and the majority of geological information in what environments and at what times in the Earth’s history these species occurred, which could inform us on the environmental context of past evolutionary events, is not or underused.</p>
 <p>We develop not only methods, software and research applications, but also workshops and teaching materials on how to account for the structure of the stratigraphic record in evolutionary studies. The key tool developed in this projects is the <a href="https://mindthegap-erc.github.io/admtools/">admtools</a> package for R, which allows constructing age-depth models free of any build-in assumptions and apply it to phylogenetic trees, records of trait evolution, proxy data and essentially any variables that can be recovered from the rock record.</p>
 
 
