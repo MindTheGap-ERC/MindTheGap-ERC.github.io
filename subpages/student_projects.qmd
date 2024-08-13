@@ -181,25 +181,6 @@ recovered from them.
     "Investigating the preservation of orbital forcing in peritidal
     carbonates." Sedimentology 63.6 (2016): 1701-1718.
 
-## Numerics of carbonate accumulation
-
-Simulations of carbonate growth (e.g. Boscher & Schlager 1992) are based
-on discrete time steps in the order of kiloyears. This corresponds to a
-simple Euler method applied to a continuous-time differential equation.
-The aim of the project is to derive the underlying differential
-equation, show the existence of a solution, and examine its numerical
-behaviour with a focus on
-
-1.  scaling properties over longer time scales and
-
-2.  potential errors introduced by the simplified solution methods
-    applied in previous publications
-
-#### Literature:
-
--   Bosscher, Hemmo, and Wolfgang Schlager. "Computer simulation of reef
-    growth." Sedimentology 39.3 (1992): 503-512.
-
 ## The memory of the stratigraphic record
 
 Successions of facies are commonly modeled via transition matrices that
