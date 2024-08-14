@@ -90,7 +90,7 @@ In this project, the
 [CarboCAT](https://github.com/MindTheGap-ERC/CarboCATLite) models
 (Burgess 2013) will be used to simulate carbonate platforms and track
 environmental conditions with time. The outputs will be combined with
-species niche modeling in R to generate a synthetic fossil record, and
+species niche modeling in R using the [StratPal package](https://mindthegap-erc.github.io/StratPal/index.html) to generate a synthetic fossil record, and
 examine how last occurrences systematically change along an
 onshore-offshore gradient and across facies boundaries and hiatuses.
 
@@ -195,7 +195,7 @@ stratigraphic successions.
 
 ## Other topics
 
--   Taphonomy across the agronomic revolution
+-   Study taphonomy across the agronomic revolution using the [PartiMoDe](https://github.com/MindTheGap-ERC/PartiMoDe) model
 
 -   Preservation of Regime Shifts, Resilience, and Recovery in Modern
     Marine Environments
