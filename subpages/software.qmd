@@ -56,7 +56,9 @@ R package to estimate age-depth models from stratigraphic and sedimentological d
 
 -   [Documentation](https://mindthegap-erc.github.io/admtools/)
 
--   [GitHub](https://github.com/MindTheGap-ERC/admtools)
+-   [Webpage](https://github.com/MindTheGap-ERC/admtools)
+
+-   [CRAN](https://cran.r-project.org/package=admtools)
 
 ### StratPal
 
@@ -64,7 +66,9 @@ R package for Stratigraphic Paleobiology
 
 -   [GitHub](https://github.com/MindTheGap-ERC/StratPal)
 
--   [Documentation](https://mindthegap-erc.github.io/StratPal/)
+-   [Webpage](https://mindthegap-erc.github.io/StratPal/)
+
+-   [CRAN](https://cran.r-project.org/package=StratPal)
 
 ### PartiMoDe
 

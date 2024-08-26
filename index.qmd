@@ -12,6 +12,10 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
+-   [Identification of the mode of evolution in incomplete carbonate successions](https://doi.org/10.1186/s12862-024-02287-2) has just been published in BMC Ecology and Evolution
+
+-   The `StratPal` package ([Github](https://github.com/MindTheGap-ERC/StratPal) \| [Website](https://mindthegap-erc.github.io/StratPal/)) is now available on [CRAN](https://cran.r-project.org/package=StratPal)
+
 -   We will be teaching a workshop in stratigraphic paleobiology at the [Annual Meeting of *Paläontologische Gesellschaft*](https://www.palaeontologische-gesellschaft.de/en/conferences/annual-meeting/) in Warsaw, using our packages [StratPal](https://mindthegap-erc.github.io/StratPal/) and [admtools](https://mindthegap-erc.github.io/admtools/) developed by Niklas
 
 -   Emilia will be giving a public talk about studying evolution using forward models at [the same conference](https://www.palaeontologische-gesellschaft.de/en/conferences/annual-meeting/)
