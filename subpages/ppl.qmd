@@ -18,6 +18,8 @@ email: x.liu6 \[at\] uu.nl\
 Web page: [www.uu.nl/staff/XLiu6](https://www.uu.nl/staff/XLiu6)\
 ORCID: [0000-0002-3851-116X](https://orcid.org/0000-0002-3851-116X)
 
+![](../img/niklas_hohmann.jpg){fig-align="left" width="200"}
+
 **Niklas Hohmann**\
 PhD student\
 Utrecht University\
@@ -25,8 +27,10 @@ email: n.h.hohmann \[at\] uu.nl\
 Web page: [www.uu.nl/staff/NHohmann](https://www.uu.nl/staff/NHHohmann)\
 ORCID: [0000-0003-1559-1838](https://orcid.org/0000-0003-1559-1838)
 
+```{=tex}
 \s\s
 \s\s
+```
 ![](../img/HS_cropped.png){fig-align="left" width="200"}
 
 **Hanno Spreeuw**\
