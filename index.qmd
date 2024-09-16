@@ -12,6 +12,8 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
+-   The materials for our workshop "Building modeling pipelines for stratigraphic paleobiology in R" are no [freely available online](https://zenodo.org/records/13769443)
+
 -   [Identification of the mode of evolution in incomplete carbonate successions](https://doi.org/10.1186/s12862-024-02287-2) has just been published in BMC Ecology and Evolution
 
 -   The `StratPal` package ([Github](https://github.com/MindTheGap-ERC/StratPal) \| [Website](https://mindthegap-erc.github.io/StratPal/)) is now available on [CRAN](https://cran.r-project.org/package=StratPal)
