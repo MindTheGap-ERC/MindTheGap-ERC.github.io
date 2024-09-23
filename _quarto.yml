@@ -5,6 +5,11 @@ execute:
   freeze: auto
 
 website:
+  favicon: img/logo_tree_horizontal_ERC_square.png
+  twitter-card: true
+  site-url: https://mindthegap-erc.github.io/
+  open-graph: true
+  image: "https://mindthegap-erc.github.io/img/logo_tree_horizontal_ERC_square.png"
   navbar:
     background: primary
     search: true
