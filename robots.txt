@@ -1,1 +1,1 @@
-Sitemap: https://MindTheGap-ERC.github.io/sitemap.xml
+Sitemap: https://mindthegap-erc.github.io/sitemap.xml
