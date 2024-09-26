@@ -6,9 +6,11 @@ title: "Publications"
 chicago manual of style 17th ed (author-date)
 -->
 
--   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. \"The Marine Biodiversity Impact of the Late Miocene Mediterranean Salinity Crisis.\" *Science* 385 (6712): 986--91. <https://doi.org/10.1126/science.adp3703>.
+-   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. \"Late Miocene Transformation of Mediterranean Sea Biodiversity.\" *Science Advances* 10 (39): eadp1134. <https://doi.org/10.1126/sciadv.adp1134>.
 
--   Hohmann, Niklas, Joël R. Koelewijn, Peter Burgess, and Emilia Jarochowska. 2024. \"Identification of the Mode of Evolution in Incomplete Carbonate Successions.\" *BMC Ecology and Evolution* 24 (1): 113. <https://doi.org/10.1186/s12862-024-02287-2>.
+-   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. "The Marine Biodiversity Impact of the Late Miocene Mediterranean Salinity Crisis." *Science* 385 (6712): 986--91. <https://doi.org/10.1126/science.adp3703>.
+
+-   Hohmann, Niklas, Joël R. Koelewijn, Peter Burgess, and Emilia Jarochowska. 2024. "Identification of the Mode of Evolution in Incomplete Carbonate Successions." *BMC Ecology and Evolution* 24 (1): 113. <https://doi.org/10.1186/s12862-024-02287-2>.
 
 We've been working on these topics for a while now. Please also check pre-grant publications:
 
