@@ -18,7 +18,7 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 -   [Identification of the mode of evolution in incomplete carbonate successions](https://doi.org/10.1186/s12862-024-02287-2) has just been published in BMC Ecology and Evolution
 
--   Niklas Hohmann received the PeerJ prize for the best talk at the Annual Meeting of the *Paläontologische Gesellschaft*
+-   Niklas Hohmann received the [PeerJ prize for the best talk](https://peerj.com/blog/post/115284889715/peerj-awards-at-palges-2024/) at the Annual Meeting of the *Paläontologische Gesellschaft*
 
 -   The `StratPal` package ([Github](https://github.com/MindTheGap-ERC/StratPal) \| [Website](https://mindthegap-erc.github.io/StratPal/)) is now available on [CRAN](https://cran.r-project.org/package=StratPal)
 
