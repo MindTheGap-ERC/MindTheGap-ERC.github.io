@@ -12,6 +12,8 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
+-   [Nonparametric estimation of age-depth models from sedimentological and stratigraphic information](https://doi.org/10.5194/egusphere-2024-2857) is now posted as a preprint for public discussion and peer review. We welcome your comments!
+
 -   We held the first workshop "Building modeling pipelines for stratigraphic paleobiology in R". The materials are [freely available online](https://zenodo.org/records/13769443)
 
 -   [Identification of the mode of evolution in incomplete carbonate successions](https://doi.org/10.1186/s12862-024-02287-2) has just been published in BMC Ecology and Evolution

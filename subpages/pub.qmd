@@ -2,11 +2,14 @@
 title: "Publications"
 ---
 
+
 <!--
 chicago manual of style 17th ed (author-date)
 -->
 
--   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. \"Late Miocene Transformation of Mediterranean Sea Biodiversity.\" *Science Advances* 10 (39): eadp1134. <https://doi.org/10.1126/sciadv.adp1134>.
+-   Hohmann, Niklas, David De Vleeschouwer, Sietske Batenburg, and Emilia Jarochowska. 2024. \"Nonparametric Estimation of Age-Depth Models from Sedimentological and Stratigraphic Information.\" *EGUsphere \[preprint\]*, September, 1--31. <https://doi.org/10.5194/egusphere-2024-2857>.
+
+-   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. "Late Miocene Transformation of Mediterranean Sea Biodiversity." *Science Advances* 10 (39): eadp1134. <https://doi.org/10.1126/sciadv.adp1134>.
 
 -   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. "The Marine Biodiversity Impact of the Late Miocene Mediterranean Salinity Crisis." *Science* 385 (6712): 986--91. <https://doi.org/10.1126/science.adp3703>.
 
