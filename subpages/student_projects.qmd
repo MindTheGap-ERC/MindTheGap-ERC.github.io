@@ -55,6 +55,46 @@ level.
 Contact: [Xianyi Liu](mailto:x.liu6@uu.nl) and [Emilia
 Jarochowska](mailto:e.b.jarochowska@uu.nl)
 
+## Find the Gap: Distribution of gap durations and locations in carbonate systems
+
+The rock record is a key source of information to understand the Earth's
+history, ranging from climate change over biotic interactions to
+evolution. Being a part of the rock record, the fossil record is
+incomplete, as parts of it are destroyed by erosion or not formed in the
+first place, thus resulting in gaps (hiatuses) in the record.
+Understanding where such gaps occur and how long they are is crucial if
+we want to use the fossil record to understand past changes. We know
+that gaps in the rock and/or fossil record are not random, but
+determined by a combination of drivers, such as sea level, insolation,
+and biotic interactions.
+
+In this project, you will use an Open Source forward computer model
+(CarboKitten.jl) developed in collaboration between Utrecht University
+and the Netherlands eScience Center to simulate carbonate platforms
+under different external drivers of platform growth to explore how these
+drivers determine the position and duration of hiatuses.
+
+You will:
+
+-   learn how to program in Julia, a new programming language developed
+    specifically for scientific computing,\
+-   how to run forward models of carbonate platform growth in it,
+-   collaborate with a diverse team, including Research Software
+    Engineers from the eScience Center and international scientists,
+-   develop transferable IT skills: version control and collaborative
+    coding using git, data visualization, reproducible research,
+    optionally: automating research workflows
+
+The results of your project will contribute to a scientific publication.
+
+Possible formats: Masters thesis, guided research project, internship.
+The work can be completed remotely or fully on site. We offer regular
+meetings with you and support by dedicated Software Engineers.
+
+Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl), [Xianyi
+Liu](mailto:x.liu6@uu.nl) and [Emilia
+Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
 ## Stratigraphic Paleobiology in Carbonate Platforms
 
 #### Context
@@ -90,9 +130,11 @@ In this project, the
 [CarboCAT](https://github.com/MindTheGap-ERC/CarboCATLite) models
 (Burgess 2013) will be used to simulate carbonate platforms and track
 environmental conditions with time. The outputs will be combined with
-species niche modeling in R using the [StratPal package](https://mindthegap-erc.github.io/StratPal/index.html) to generate a synthetic fossil record, and
-examine how last occurrences systematically change along an
-onshore-offshore gradient and across facies boundaries and hiatuses.
+species niche modeling in R using the [StratPal
+package](https://mindthegap-erc.github.io/StratPal/index.html) to
+generate a synthetic fossil record, and examine how last occurrences
+systematically change along an onshore-offshore gradient and across
+facies boundaries and hiatuses.
 
 #### Skills and Knowledge
 
@@ -195,7 +237,8 @@ stratigraphic successions.
 
 ## Other topics
 
--   Study taphonomy across the agronomic revolution using the [PartiMoDe](https://github.com/MindTheGap-ERC/PartiMoDe) model
+-   Study taphonomy across the agronomic revolution using the
+    [PartiMoDe](https://github.com/MindTheGap-ERC/PartiMoDe) model
 
 -   Preservation of Regime Shifts, Resilience, and Recovery in Modern
     Marine Environments
