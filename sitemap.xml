@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mindthegap-erc.github.io/subpages/ppl.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mindthegap-erc.github.io/subpages/science.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mindthegap-erc.github.io/subpages/software.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
+    <loc>https://mindthegap-erc.github.io/index.html</loc>
+    <lastmod>2024-10-22T09:23:23.800Z</lastmod>
   </url>
   <url>
     <loc>https://mindthegap-erc.github.io/subpages/archive.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mindthegap-erc.github.io/index.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mindthegap-erc.github.io/subpages/student_projects.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
+    <lastmod>2024-10-22T09:23:23.800Z</lastmod>
   </url>
   <url>
     <loc>https://mindthegap-erc.github.io/subpages/pub.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
+    <lastmod>2024-10-22T09:23:23.804Z</lastmod>
   </url>
   <url>
     <loc>https://mindthegap-erc.github.io/subpages/teaching.html</loc>
-    <lastmod>2024-10-01T13:51:36.815Z</lastmod>
+    <lastmod>2024-10-22T09:23:23.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mindthegap-erc.github.io/subpages/software.html</loc>
+    <lastmod>2024-10-22T09:23:23.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mindthegap-erc.github.io/subpages/student_projects.html</loc>
+    <lastmod>2024-10-22T09:23:23.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mindthegap-erc.github.io/subpages/ppl.html</loc>
+    <lastmod>2024-10-22T09:23:23.800Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mindthegap-erc.github.io/subpages/science.html</loc>
+    <lastmod>2024-10-22T09:23:23.804Z</lastmod>
   </url>
 </urlset>
