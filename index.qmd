@@ -12,7 +12,7 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   On 31st of October, Niklas Hohmann will present his work on building modeling pipelines for stratigraphic paleobiology in R at the [Paleoverse lecture series](https://palaeoverse.org/lectures), all materials are available on [Zenodo](https://doi.org/10.5281/zenodo.14001502)
+-   The [Paleoverse lecture](https://palaeoverse.org/lectures) *"Building modeling pipelines for stratigraphic paleobiology in R"* by Niklas Hohmann can now be [viewed on YouTube](https://www.youtube.com/watch?v=1H-xnD82fzA), all materials are available on [Zenodo](https://doi.org/10.5281/zenodo.14001502)
 
 -   [Nonparametric estimation of age-depth models from sedimentological and stratigraphic information](https://doi.org/10.5194/egusphere-2024-2857) is now posted as a preprint for public discussion and peer review. We welcome your comments!
 
