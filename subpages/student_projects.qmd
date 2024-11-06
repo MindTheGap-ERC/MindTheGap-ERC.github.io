@@ -55,6 +55,24 @@ level.
 Contact: [Xianyi Liu](mailto:x.liu6@uu.nl) and [Emilia
 Jarochowska](mailto:e.b.jarochowska@uu.nl)
 
+#### Introductory Reading
+
+-   Harris, Paul M. (Mitch), Samuel J. Purkis, and James Ellis. 2011.
+    \"Analyzing Spatial Patterns in Modern Carbonate Sand Bodies From
+    Great Bahama Bank.\" *Journal of Sedimentary Research* 81 (3):
+    185--206. <https://doi.org/10.2110/jsr.2011.21>.
+
+-   Rankey, Eugene C., and Jim Morgan. 2002. \"Quantified Rates of
+    Geomorphic Change on a Modern Carbonate Tidal Flat, Bahamas.\"
+    *Geology* 30 (7): 583--86.
+    [https://doi.org/10.1130/0091-7613(2002)030\<0583:QROGCO\>2.0.CO;2](https://doi.org/10.1130/0091-7613(2002)030<0583:QROGCO>2.0.CO;2).
+
+-   Violette, Clémentine, Mehdi Adjeroud, Claude Payri, Sam J. Purkis,
+    and Serge Andréfouët. 2024. \"Changes of Tiahura (Moorea Island)
+    Reef Flat Habitats Using 67 Years of Remote Sensing Observations.\"
+    *Coral Reefs*, October.
+    <https://doi.org/10.1007/s00338-024-02576-8>.
+
 ## Find the Gap: Distribution of gap durations and locations in carbonate systems
 
 The rock record is a key source of information to understand the Earth's
@@ -77,7 +95,7 @@ drivers determine the position and duration of hiatuses.
 You will:
 
 -   learn how to program in Julia, a new programming language developed
-    specifically for scientific computing,\
+    specifically for scientific computing,
 -   how to run forward models of carbonate platform growth in it,
 -   collaborate with a diverse team, including Research Software
     Engineers from the eScience Center and international scientists,
@@ -94,6 +112,25 @@ meetings with you and support by dedicated Software Engineers.
 Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl), [Xianyi
 Liu](mailto:x.liu6@uu.nl) and [Emilia
 Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
+#### Introductory Reading
+
+-   Davies, Neil S., Anthony P. Shillito, and William J. McMahon. 2019.
+    \"Where Does the Time Go? Assessing the Chronostratigraphic Fidelity
+    of Sedimentary Geological Outcrops in the Pliocene--Pleistocene Red
+    Crag Formation, Eastern England.\" *Journal of the Geological
+    Society* 176 (6): 1154--68. <https://doi.org/10.1144/jgs2019-056>.
+
+-   Hohmann, Niklas, Joël R. Koelewijn, Peter Burgess, and Emilia
+    Jarochowska. 2024. \"Identification of the Mode of Evolution in
+    Incomplete Carbonate Successions.\" *BMC Ecology and Evolution* 24
+    (1): 113. <https://doi.org/10.1186/s12862-024-02287-2>.
+
+-   Tomašových, Adam, Ivo Gallmetzer, Alexandra Haselmair, and Martin
+    Zuschin. 2022. \"Inferring Time Averaging and Hiatus Durations in
+    the Stratigraphic Record of High-Frequency Depositional Sequences.\"
+    *Sedimentology* 69 (3): 1083--1118.
+    <https://doi.org/10.1111/sed.12936>.
 
 ## Stratigraphic Paleobiology in Carbonate Platforms
 
@@ -214,14 +251,20 @@ and space, and the approach from Kemp et al. (2016) will be used to
 examine under which circumstances the original orbital signal can be
 recovered from them.
 
-#### References:
+#### Introductory reading
 
 -   R package [`palinsol`](https://cran.r-project.org/package=palinsol)
 
 -   Bosscher, Hemmo, and Wolfgang Schlager. "Computer simulation of reef
-    growth." Sedimentology 39.3 (1992): 503-512. Kemp, David B., et al.
-    "Investigating the preservation of orbital forcing in peritidal
-    carbonates." Sedimentology 63.6 (2016): 1701-1718.
+    growth." Sedimentology 39.3 (1992): 503-512.
+
+-   Kemp, David B., et al. "Investigating the preservation of orbital
+    forcing in peritidal carbonates." Sedimentology 63.6 (2016):
+    1701-1718.
+
+-   Dullo, Wolf-Christian. 2005. \"Coral Growth and Reef Growth: A Brief
+    Review.\" *Facies* 51 (1): 33--48.
+    <https://doi.org/10.1007/s10347-005-0060-y>.
 
 ## The memory of the stratigraphic record
 
@@ -234,6 +277,12 @@ as a Markov chain of n-th order after expanding the state space. In the
 project, the student will assess how memory length of Markov chain
 models affects the capability to explain empirically observed
 stratigraphic successions.
+
+#### Introductory reading
+
+-   Miall, Andrew D. 1973. \"Markov Chain Analysis Applied to an Ancient
+    Alluvial Plain Succession.\" *Sedimentology* 20 (3): 347--64.
+    <https://doi.org/10.1111/j.1365-3091.1973.tb01615.x>.
 
 ## Other topics
 
