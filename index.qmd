@@ -18,12 +18,9 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 -   We held the first workshop "Building modeling pipelines for stratigraphic paleobiology in R". The materials are [freely available online](https://zenodo.org/records/13769443)
 
--   [Identification of the mode of evolution in incomplete carbonate successions](https://doi.org/10.1186/s12862-024-02287-2) has just been published in BMC Ecology and Evolution
-
 -   Niklas Hohmann received the [PeerJ prize for the best talk](https://peerj.com/blog/post/115284889715/peerj-awards-at-palges-2024/) at the Annual Meeting of the *Paläontologische Gesellschaft*
 
 -   The `StratPal` package ([Github](https://github.com/MindTheGap-ERC/StratPal) \| [Website](https://mindthegap-erc.github.io/StratPal/)) is now available on [CRAN](https://cran.r-project.org/package=StratPal)
 
--   [We are looking for students](subpages/student_projects.html) interested in spatial distribution of carbonate facies using exceptional historical data
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*
