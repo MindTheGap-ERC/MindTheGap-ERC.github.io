@@ -16,6 +16,8 @@ The workshop requires basic knowledge of the R software, but no prior experience
 
 Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
 
+![Example workflow of a model in stratigraphic paleobiology: The sedimentological forward model specifies what facies is deposited where, and how long the gaps are (left). This information is combined with models of biological change specifies what part of the evolutionary history are preserved (bottom right), and the patterns we can observe in the stratigraphic record (top right). Here , the gaps produce artefactual jumps in trait evoltution.](/img/stratpal_workflow_example.png)
+
 ## Modeling Carbonate Platform growth using CarboKitten.jl
 
 Stratigraphic forward models permit us to test hypotheses on the structure of the geological record and on the preservation of proxies or biological information. Until now, most stratigraphic forward models focused on marine siliciclastic or terrestrial environments. However, carbonate platforms have entirely different dynamics, as the sediment is "born, not made" and produced mostly *in situ*. Carbonate platforms are also biodiversity hotspots. In this workshop, we present the first Open Source 3D forward model of carbonate platform growth using [`CarboKitten.jl`](https://mindthegap-erc.github.io/CarboKitten.jl/), written in a new language [Julia](https://julialang.org/), developed specifically for high-performance scientific applications.
