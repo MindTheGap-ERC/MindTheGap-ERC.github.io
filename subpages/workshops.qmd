@@ -16,6 +16,8 @@ The workshop requires basic knowledge of the R software, but no prior experience
 
 Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
 
+![Example workflow of a model in stratigraphic paleobiology: The sedimentological forward model specifies what facies is deposited where, and how long the gaps are (left). This information is combined with models of biological change specifies what part of the evolutionary history are preserved (bottom right), and the patterns we can observe in the stratigraphic record (top right). Here , the gaps produce artefactual jumps in trait evoltution.](/img/stratpal_workflow_example.png)
+
 ```{=html}
 <!---
 ## Modeling Carbonate Platform growth using CarboKitten.jl
