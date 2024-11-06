@@ -28,6 +28,8 @@ Reactive-transport model simulating formation of limestone-marl alternations: re
 
 -   [GitHub](https://github.com/astro-turing/Integrating-diagenetic-equations-using-Python)
 
+-   [Documentation](https://mindthegap-erc.github.io/reactive-transport-model-for-limestone-marl-sequences/)
+
 ### rhythmite
 
 Reactive-transport model simulating formation of limestone-marl alternations: re-implementation of the model by [L'Heureux (2018)](https://www.hindawi.com/journals/geofluids/2018/4968315/) in Python, made for our project by Cedric Thieulot and Charlotte Summers
