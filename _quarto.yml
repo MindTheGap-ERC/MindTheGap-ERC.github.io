@@ -28,6 +28,8 @@ website:
         text: "Publications"
       - href: subpages/teaching.qmd
         text: "Teaching"
+      - href: subpages/workshops.qmd
+        text: "Workshops"
       - href: subpages/archive.qmd
         text: "Archives and repositories"
 

@@ -1,0 +1,26 @@
+---
+title: "Workshops"
+---
+
+We offer workshops on topics related to stratigraphy and paleobiology. Workshops can be held online or on site, please reach out to us if you are interested in one of the workshops
+
+## Modeling Stratigraphic Paleobiology in R
+
+The fossil record is a joint expression of biological and geological processes. The record of biological events, such as extinction, migration, speciation, can be distorted by stratigraphic architectures, environmental factors, and taphonomy. The core idea of stratigraphic paleobiology is to incorporate knowledge about geological processes shaping these architectures into paleontological analyses to account for stratigraphic biases. Forward modelling is a way to predict and explore how a given geological section, with its gaps and changes in sedimentation rates, will record a hypothetical biological event. It is a powerful tool to formulate stratigraphic null hypotheses about evolutionary dynamics in the fossil record, which can be compared against empirical observations.
+
+In this workshop, we provide an introduction to forward modelling in stratigraphic paleobiology using the `admtools` and `StratPal` packages for R Software. We demonstrate how to develop a modelling workflow that links evolutionary and ecological models (e.g., niche models, trait evolution) with outputs from forward models of carbonate platform evolution (e.g. CarboKitten.jl, CarboCAT). At the end of the workshop, participants will be able to develop their own simulation study that examines how stratigraphic architectures affect paleobiological interpretations (e.g., extinction rates, tempo and mode of evolution) from geological successions.
+
+This workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhDs, and researchers interested in stratigraphic paleobiology. We adjust the level to match that of the workshop participants.
+
+The workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) [here](https://doi.org/10.5281/zenodo.13769443).
+
+Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
+```{=html}
+<!---
+## Modeling Carbonate Platform growth using CarboKitten.jl
+
+Contact: [Xianyi Liu](mailto:x.liu6@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
+--->
+```
