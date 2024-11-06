@@ -2,7 +2,7 @@
 title: "Workshops"
 ---
 
-We offer workshops on topics related to stratigraphy and paleobiology. Workshops can be held online or on site, please reach out to us if you are interested in one of the workshops
+We offer workshops on topics related to stratigraphy and paleobiology. Workshops can be held online or on site, please reach out to us if you are interested in one of the workshops.
 
 ## Modeling Stratigraphic Paleobiology in R
 
@@ -16,11 +16,22 @@ The workshop requires basic knowledge of the R software, but no prior experience
 
 Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
 
-```{=html}
-<!---
 ## Modeling Carbonate Platform growth using CarboKitten.jl
 
-Contact: [Xianyi Liu](mailto:x.liu6@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
+Stratigraphic forward models permit us to test hypotheses on the structure of the geological record and on the preservation of proxies or biological information. Until now, most stratigraphic forward models focused on marine siliciclastic or terrestrial environments. However, carbonate platforms have entirely different dynamics, as the sediment is "born, not made" and produced mostly *in situ*. Carbonate platforms are also biodiversity hotspots. In this workshop, we present the first Open Source 3D forward model of carbonate platform growth using [`CarboKitten.jl`](https://mindthegap-erc.github.io/CarboKitten.jl/), written in a new language [Julia](https://julialang.org/), developed specifically for high-performance scientific applications.
 
---->
-```
+In this workshop, we will cover:
+
+- a very short intro to stratigraphic forward modeling with example applications tailored to the audience
+
+- a short intro to running Julia code and explanation why Julia was chosen for this project and how it can be used for other scientific applications
+
+- a hands-on session with `CarboKitten.jl` to model carbonate platform growth and explore the effects of different parameters on the resulting stratigraphy
+
+- extracting data from the model, visualizing it and coupling with other packages in R or Python, depending on the needs of the audience
+
+The workshop does not require any prior knowledge of Julia, but basic knowledge of R or Python will be helpful. We assume prior familiarity with the basics of carbonate sedimentology (at the level e.g. of Schlager's (2005) textbook) and stratigraphy (e.g. Nichol's "Sedimentology and Stratigraphy" textbook or comparable). The workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhD students, and researchers interested in carbonate platform growth and stratigraphic modeling. We adjust the level to match that of the workshop participants.
+
+Contact: [Xianyi Liu](mailto:x.liu6@uu.nl), [Johan Hidding](mailto:j.hidding@esciencecenter.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
+
+
