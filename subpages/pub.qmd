@@ -4,10 +4,12 @@ title: "Publications"
 
 
 <!--
-chicago manual of style 17th ed (author-date)
+chicago manual of style 17th ed. (author-date)
 -->
 
--   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. \"A Revised Marine Fossil Record of the Mediterranean before and after the Messinian Salinity Crisis.\" *Earth System Science Data* 16 (10): 4767--75. <https://doi.org/10.5194/essd-16-4767-2024>.
+-   Hohmann, Niklas, and Emilia Jarochowska. 2024. "StratPal: An R Package for Creating Stratigraphic Paleobiology Modeling Pipelines." *bioRxiv \[preprint\]*. <https://doi.org/10.1101/2024.11.22.624834>.
+
+-   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. "A Revised Marine Fossil Record of the Mediterranean before and after the Messinian Salinity Crisis." *Earth System Science Data* 16 (10): 4767--75. <https://doi.org/10.5194/essd-16-4767-2024>.
 
 -   Hohmann, Niklas, David De Vleeschouwer, Sietske Batenburg, and Emilia Jarochowska. 2024. "Nonparametric Estimation of Age-Depth Models from Sedimentological and Stratigraphic Information." *EGUsphere \[preprint\]*, September, 1--31. <https://doi.org/10.5194/egusphere-2024-2857>.
 
