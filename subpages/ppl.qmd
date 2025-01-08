@@ -27,10 +27,6 @@ email: n.h.hohmann \[at\] uu.nl\
 Web page: [www.uu.nl/staff/NHohmann](https://www.uu.nl/staff/NHHohmann)\
 ORCID: [0000-0003-1559-1838](https://orcid.org/0000-0003-1559-1838)
 
-```{=tex}
-\s\s
-\s\s
-```
 ![](../img/HS_cropped.png){fig-align="left" width="200"}
 
 **Hanno Spreeuw**\
@@ -46,19 +42,32 @@ Netherlands eScience Center\
 email: j.hidding \[at\] esciencecenter.nl\
 Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencecenter.nl/team/johan-hidding-msc/)
 
-**Peter Burgess**\
-Collaborator\
-University of Liverpool\
-Web page: [www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess](https://www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess/)\
-ORCID: [0000-0002-3812-4231](https://orcid.org/0000-0002-3812-4231)
+## Collaborators
 
-**David De Vleeschouwer**\
-Collaborator\
-Westfälische Wilhelms-Universität Münster\
-Web page: [www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer](https://www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer.html)\
-ORCID: [0000-0002-3323-807X](https://orcid.org/0000-0002-3323-807X)
++------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
+| **Peter Burgess**\                                                                                                                                   | **David De Vleeschouwer**\                                                                                                                                                             | **Rachel Warnock**\                                                                   |
+| Collaborator\                                                                                                                                        | Collaborator\                                                                                                                                                                          | Collaborator\                                                                         |
+| University of Liverpool\                                                                                                                             | Westfälische Wilhelms-Universität Münster\                                                                                                                                             | Friedrich-Alexander-Universität Erlangen-Nürnberg\                                    |
+| Web page: [www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess](https://www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess/)\ | Web page: [www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer](https://www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer.html)\ | Web page: <https://www.gzn.nat.fau.de/palaeontologie/team/professors/rachel-warnock/> |
+| ORCID: [0000-0002-3812-4231](https://orcid.org/0000-0002-3812-4231)                                                                                  | ORCID: [0000-0002-3323-807X](https://orcid.org/0000-0002-3323-807X)                                                                                                                    |                                                                                       |
++------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
 
-**Rachel Warnock**\
-Collaborator\
-Friedrich-Alexander-Universität Erlangen-Nürnberg\
-Web page: <https://www.gzn.nat.fau.de/palaeontologie/team/professors/rachel-warnock/>
+## Students
+
+### Current
+
++------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+
+| ![](/img/Sidney.JPG){width="200"}                                                              | **Thodoris Tsaveas**                                                         |
+|                                                                                                |                                                                              |
+| **Sidney Bickerton**                                                                           | *Topological Data Analysis of ecological facies distribution in the Bahamas* |
+|                                                                                                |                                                                              |
+| *Last occurrence of species in a carbonate platform based on varying environmental conditions* | Masters thesis                                                               |
+|                                                                                                |                                                                              |
+| Guided research                                                                                |                                                                              |
++------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+
+
+### Past
+
+1.  Robin L.C. Pijnenburg (2023), BSc thesis *"A high-resolution record of Devonian conodont evolution"*
+
+2.  Twan Megens (2023), BSc thesis *"Evidence of microevolution of* Tripodellus gracilis *during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland"*
