@@ -7,7 +7,9 @@ title: "Publications"
 chicago manual of style 17th ed. (author-date)
 -->
 
--   Hohmann, Niklas, and Emilia Jarochowska. 2024. "StratPal: An R Package for Creating Stratigraphic Paleobiology Modeling Pipelines." *bioRxiv \[preprint\]*. <https://doi.org/10.1101/2024.11.22.624834>.
+-   Hohmann, Niklas, and Emilia Jarochowska. 2025. “StratPal: An R Package for Creating Stratigraphic Paleobiology Modelling Pipelines.” *Methods in Ecology and Evolution*. <https://doi.org/10.1111/2041-210X.14507>.
+
+-   Godbold, Amanda, Chase C. James, Wolfgang Kiessling, Niklas Hohmann, Emilia Jarochowska, Frank A. Corsetti, and David J. Bottjer. 2025. “Ancient Frameworks as Modern Templates: Exploring Reef Rubble Consolidation in an Ancient Reef System.” *Proceedings of the Royal Society B: Biological Sciences* 292 (2040): 20242123. <https://doi.org/10.1098/rspb.2024.2123>.
 
 -   Agiadi, Konstantina, Niklas Hohmann, Elsa Gliozzi, Danae Thivaiou, Francesca R. Bosellini, Marco Taviani, Giovanni Bianucci, et al. 2024. "A Revised Marine Fossil Record of the Mediterranean before and after the Messinian Salinity Crisis." *Earth System Science Data* 16 (10): 4767--75. <https://doi.org/10.5194/essd-16-4767-2024>.
 

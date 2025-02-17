@@ -12,8 +12,9 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
+-   Niklas Hohmann will present his work at the PaleoPERCS lecture series on the 18th of February, sign up under [paleopercs.com/](https://paleopercs.com/) to see his talk live. A recording will be made available on YouTube later
+-   [StratPal: An R package for creating stratigraphic paleobiology modelling pipelines](https://doi.org/10.1111/2041-210X.14507) is now published in *Methods in Ecology and Evolution*
 -   Check our [workshop page](https://mindthegap-erc.github.io/subpages/workshops.html) for descriptions of the workshops we offer
--   The preprint [StratPal: An R package for creating stratigraphic paleobiology modeling pipelines](https://doi.org/10.1101/2024.11.22.624834) documenting the `StratPal` package is now available on bioRxiv
 -   The [Paleoverse lecture](https://palaeoverse.org/lectures) *"Building modeling pipelines for stratigraphic paleobiology in R"* by Niklas Hohmann can now be [viewed on YouTube](https://www.youtube.com/watch?v=1H-xnD82fzA), all materials are available on [Zenodo](https://doi.org/10.5281/zenodo.14001502)
 -   [Nonparametric estimation of age-depth models from sedimentological and stratigraphic information](https://doi.org/10.5194/egusphere-2024-2857) is now posted as a preprint for public discussion and peer review. We welcome your comments!
 -   We held the first workshop "Building modeling pipelines for stratigraphic paleobiology in R". The materials are [freely available online](https://zenodo.org/records/13769443)
