@@ -1,0 +1,17 @@
+---
+  title: "Talks and activities"
+---
+
+- February 2025: Xianyi Liu is presenting his talk *How does subaerial erosion of carbonate platform distort the sedimentary record?* at the [SedsOnline webinar](https://sedsonline.com/) on Wednesday, 26 February 2025 at 5 PM CET
+
+-   February 2025: A recording of Niklas Hohmanns' presentation *"Recovering Trait Evolution From Incomplete Carbonate Successions"* at [PaleoPERCS](https://paleopercs.com/) is now available on [YouTube](https://www.youtube.com/watch?v=LuFdrkaMwso)
+
+- February 2025: We joined the workshop on [Efficient Programming in Julia](https://carpentries-incubator.github.io/efficient-computing-in-julia/) at the Netherlands eScience Center, where Johan Hidding presented examples from [CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/)
+
+-   October 2024: The [Paleoverse lecture](https://palaeoverse.org/lectures) *"Building modeling pipelines for stratigraphic paleobiology in R"* by Niklas Hohmann can now be [viewed on YouTube](https://www.youtube.com/watch?v=1H-xnD82fzA), all materials are available on [Zenodo](https://doi.org/10.5281/zenodo.14001502)
+
+-   September 2024: Niklas Hohmann received the [PeerJ prize for the best talk](https://peerj.com/blog/post/115284889715/peerj-awards-at-palges-2024/) at the Annual Meeting of the *Paläontologische Gesellschaft*
+
+-   September 2024: We held the first workshop "Building modeling pipelines for stratigraphic paleobiology in R". The materials are [freely available online](https://zenodo.org/records/13769443)
+
+- July 2024: Johan Hidding presented examples from [CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/) at his talk at JuliaCon 2024: *Natural Science, Computer Modeling and Literate Programming* [See his talk on YouTube](https://youtu.be/ii3m_Q3PvfI?si=ZvPPk2lbxfLF8LBV)

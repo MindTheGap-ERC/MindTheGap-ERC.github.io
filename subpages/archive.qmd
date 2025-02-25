@@ -2,6 +2,8 @@
 title: "Datasets"
 ---
 
+Markus, T., & Jarochowska, E. (2025). Animation presenting the record of trilobite evolution in geological strata. [Zenodo.](https://doi.org/10.5281/zenodo.14923879)
+
 Hohmann, N., Koelewijn, J. R., & Jarochowska, E. (2024). [Identification of the Mode of Evolution in Incomplete Carbonate Successions - Supporting Data.](https://doi.org/10.17605/OSF.IO/ZBPWA) 
 
 You can find a complete list of our datasets and other research outputs in [the project's Zenodo community](https://zenodo.org/communities/mindthegap/).

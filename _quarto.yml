@@ -32,6 +32,8 @@ website:
         text: "Workshops"
       - href: subpages/archive.qmd
         text: "Archives and repositories"
+      - href: subpages/activities.qmd
+        text: "Talks and activities"
 
 format:
   html:

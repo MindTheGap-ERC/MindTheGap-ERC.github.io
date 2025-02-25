@@ -56,15 +56,27 @@ Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencece
 
 ### Current
 
-+------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+
-| ![](/img/Sidney.JPG){width="200"}                                                              | **Thodoris Tsaveas**                                                         |
-|                                                                                                |                                                                              |
-| **Sidney Bickerton**                                                                           | *Topological Data Analysis of ecological facies distribution in the Bahamas* |
-|                                                                                                |                                                                              |
-| *Last occurrence of species in a carbonate platform based on varying environmental conditions* | Masters thesis                                                               |
-|                                                                                                |                                                                              |
-| Guided research                                                                                |                                                                              |
-+------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](/img/Sidney.JPG){width="200"}                                                              | **Thodoris Tsaveas**                                                                                                       |
+|                                                                                                |                                                                                                                            |
+| **Sidney Bickerton**                                                                           | *Topological Data Analysis of ecological facies distribution in the Bahamas*                                               |
+|                                                                                                |                                                                                                                            |
+| *Last occurrence of species in a carbonate platform based on varying environmental conditions* | Masters thesis                                                                                                             |
+|                                                                                                |                                                                                                                            |
+| Guided research                                                                                |                                                                                                                            |
++------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Anna Jansen**                                                                                | **Julia Szpor**                                                                                                            |
+|                                                                                                |                                                                                                                            |
+| *University College Utrecht*                                                                   | *University College Utrecht*                                                                                               |
+|                                                                                                |                                                                                                                            |
+| BSc thesis on modelling the effects of ecological niches on the record of mass extinctions     | Internship: *Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?* |
++------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Laurent Puyana**                                                                             | **Michelle Than**                                                                                                          |
+|                                                                                                |                                                                                                                            |
+| *University of Florida*                                                                        | Honours project on modelling the response of carbonate producers to varying insolation                                     |
+|                                                                                                |                                                                                                                            |
+| Internship: *Historical changes in the distribution of ecological facies in the Bahamas*       |                                                                                                                            |
++------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
 
 ### Past
 
