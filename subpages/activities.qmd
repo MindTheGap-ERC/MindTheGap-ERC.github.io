@@ -2,11 +2,17 @@
   title: "Talks and activities"
 ---
 
-- February 2025: Xianyi Liu is presenting his talk *How does subaerial erosion of carbonate platform distort the sedimentary record?* at the [SedsOnline webinar](https://sedsonline.com/) on Wednesday, 26 February 2025 at 5 PM CET
+![](/img/202503_202503_SIW_Stands_078.jpg){fig-alt="The team at Science is Wonderfu!: Xianyi, Niklas, Sidney and Emilia standing at their booth holding fossil skulls"}
+
+-   June 2025: We are hosting the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting will take place at Utrecht University on 26th - 29th June. [Programme and registration](https://www.uu.nl/en/research/department-of-earth-sciences/cyclonet-meeting-utrecht)
+
+-   March 2025: We presented a show on modelling evolution and an interactive booth at [Science is Wonderful! 2025](https://marie-sklodowska-curie-actions.ec.europa.eu/science-is-wonderful) in Brussels in March. [Read the report here](https://www.uu.nl/en/news/embodying-randomness-in-nature-through-theatre-teaching-evolution-to-kids-at-science-is-wonderful)
+
+-   February 2025: Xianyi Liu presented his talk *How does subaerial erosion of carbonate platform distort the sedimentary record?* at the [SedsOnline webinar](https://sedsonline.com/). See the [recording](https://youtu.be/K0yJsrxIHqs?si=9oooY37E-9v40Kbp)
 
 -   February 2025: A recording of Niklas Hohmanns' presentation *"Recovering Trait Evolution From Incomplete Carbonate Successions"* at [PaleoPERCS](https://paleopercs.com/) is now available on [YouTube](https://www.youtube.com/watch?v=LuFdrkaMwso)
 
-- February 2025: We joined the workshop on [Efficient Programming in Julia](https://carpentries-incubator.github.io/efficient-computing-in-julia/) at the Netherlands eScience Center, where Johan Hidding presented examples from [CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/)
+-   February 2025: We joined the workshop on [Efficient Programming in Julia](https://carpentries-incubator.github.io/efficient-computing-in-julia/) at the Netherlands eScience Center, where Johan Hidding presented examples from [CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/)
 
 -   October 2024: The [Paleoverse lecture](https://palaeoverse.org/lectures) *"Building modeling pipelines for stratigraphic paleobiology in R"* by Niklas Hohmann can now be [viewed on YouTube](https://www.youtube.com/watch?v=1H-xnD82fzA), all materials are available on [Zenodo](https://doi.org/10.5281/zenodo.14001502)
 
@@ -14,4 +20,4 @@
 
 -   September 2024: We held the first workshop "Building modeling pipelines for stratigraphic paleobiology in R". The materials are [freely available online](https://zenodo.org/records/13769443)
 
-- July 2024: Johan Hidding presented examples from [CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/) at his talk at JuliaCon 2024: *Natural Science, Computer Modeling and Literate Programming* [See his talk on YouTube](https://youtu.be/ii3m_Q3PvfI?si=ZvPPk2lbxfLF8LBV)
+-   July 2024: Johan Hidding presented examples from [CarboKitten.jl](https://mindthegap-erc.github.io/CarboKitten.jl/) at his talk at JuliaCon 2024: *Natural Science, Computer Modeling and Literate Programming* [See his talk on YouTube](https://youtu.be/ii3m_Q3PvfI?si=ZvPPk2lbxfLF8LBV)
