@@ -22,6 +22,12 @@ Shiny app visualizing the effects of carbonate stratigraphy on trait evolution.
 
 -   [GitHub](https://github.com/MindTheGap-ERC/DarwinCAT)
 
-### Stratpal workshop
+-   Open Educational Resource based on the app: [Preservation of evolution in the geological record](https://zenodo.org/records/15667235) class activity for Masters or upper Bachelors level class (ca. 3 h)
+
+### Stratigraphic paleobiology workshop
 
 We developed a workshop on building modeling pipelines for stratigraphic paleobiology in R. The materials are [archived on Zenodo](https://zenodo.org/records/13769443) and continuously developed on [GitHub](https://github.com/MindTheGap-ERC/StratPal_workshop_materials).
+
+### Age-depth modeling in R workshop
+
+Developed with David De Vleeschouwer and Christian Zeeden. The materials are [archived on Zenodo](https://zenodo.org/records/15735525) and continuously developed on [GitHub](https://github.com/MindTheGap-ERC/age_depth_modeling_r/).
