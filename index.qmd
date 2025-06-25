@@ -12,13 +12,10 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
-- We are hosting the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting will take place at Utrecht University on 26th - 29th June. [Programme and registration](https://www.uu.nl/en/research/department-of-earth-sciences/cyclonet-meeting-utrecht)
+-   The preprint [Nonparametric estimation of age-depth models from sedimentological and stratigraphic information](https://doi.org/10.5194/egusphere-2024-2857) has just been accepted for publication in *Geochronology*!
 
-- We presented a show on modelling evolution and an interactive booth at [Science is Wonderful! 2025](https://marie-sklodowska-curie-actions.ec.europa.eu/science-is-wonderful) in Brussels in March. [Read the report here](https://www.uu.nl/en/news/embodying-randomness-in-nature-through-theatre-teaching-evolution-to-kids-at-science-is-wonderful)
+-   We are hosting the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting will take place at Utrecht University on 26th - 29th June. [Programme and registration](https://www.uu.nl/en/research/department-of-earth-sciences/cyclonet-meeting-utrecht)
 
-- Xianyi Liu presented his talk *How does subaerial erosion of carbonate platform distort the sedimentary record?* at the [SedsOnline webinar](https://sedsonline.com/). See the [recording](https://youtu.be/K0yJsrxIHqs?si=9oooY37E-9v40Kbp)
-
--   [StratPal: An R package for creating stratigraphic paleobiology modelling pipelines](https://doi.org/10.1111/2041-210X.14507) is now published in *Methods in Ecology and Evolution*
-
+-   Masters student Sidney Bickerton completed his research project "Spatial biases in the recovery of extinction dynamics from carbonate platforms". Congratulations!
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*
