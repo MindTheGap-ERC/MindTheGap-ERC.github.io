@@ -56,30 +56,46 @@ Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencece
 
 ### Current
 
-+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](/img/Sidney.JPG){width="200"}                                                              | **Thodoris Tsaveas**                                                                                                       |
-|                                                                                                |                                                                                                                            |
-| **Sidney Bickerton**                                                                           | *Topological Data Analysis of ecological facies distribution in the Bahamas*                                               |
-|                                                                                                |                                                                                                                            |
-| *Last occurrence of species in a carbonate platform based on varying environmental conditions* | Masters thesis                                                                                                             |
-|                                                                                                |                                                                                                                            |
-| Guided research                                                                                |                                                                                                                            |
-+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Anna Jansen**                                                                                | **Julia Szpor**                                                                                                            |
-|                                                                                                |                                                                                                                            |
-| *University College Utrecht*                                                                   | *University College Utrecht*                                                                                               |
-|                                                                                                |                                                                                                                            |
-| BSc thesis on modelling the effects of ecological niches on the record of mass extinctions     | Internship: *Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?* |
-+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Laurent Puyana**                                                                             | **Michelle Than**                                                                                                          |
-|                                                                                                |                                                                                                                            |
-| *University of Florida*                                                                        | Honours project on modelling the response of carbonate producers to varying insolation                                     |
-|                                                                                                |                                                                                                                            |
-| Internship: *Historical changes in the distribution of ecological facies in the Bahamas*       |                                                                                                                            |
-+------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Dennis Lutgens**                                                                         | **Thodoris Tsaveas**                                                                                                       |
+|                                                                                            |                                                                                                                            |
+| Satellite image analysis of ecological facies in the Bahamas                               | *Topological Data Analysis of ecological facies distribution in the Bahamas*                                               |
+|                                                                                            |                                                                                                                            |
+| Masters thesis                                                                             | Masters thesis                                                                                                             |
++--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](/img/Anna.jpeg){width="162"}                                                           | **Julia Szpor**                                                                                                            |
+|                                                                                            |                                                                                                                            |
+| **Anna Jansen**                                                                            | *University College Utrecht*                                                                                               |
+|                                                                                            |                                                                                                                            |
+| *University College Utrecht*                                                               | Internship: *Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?* |
+|                                                                                            |                                                                                                                            |
+| BSc thesis on modelling the effects of ecological niches on the record of mass extinctions |                                                                                                                            |
++--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Michelle Than**                                                                          | **Bruno Peeters**                                                                                                          |
+|                                                                                            |                                                                                                                            |
+| Honours project on modelling the response of carbonate producers to varying insolation     | BSc thesis and internship on the effect of stratigraphic gaps on phylogenetic inference                                    |
++--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
 
 ### Past
 
-1.  Robin L.C. Pijnenburg (2023), BSc thesis *"A high-resolution record of Devonian conodont evolution"*
+![](/img/Sidney.JPG){width="200"}
 
-2.  Twan Megens (2023), BSc thesis *"Evidence of microevolution of* Tripodellus gracilis *during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland"*
+**Sidney Bickerton**
+
+*Last occurrence of species in a carbonate platform based on varying environmental conditions*
+
+Guided research, 2025
+
+**Laurent Puyana**
+
+*University of Florida*
+
+Internship (2025): *Historical changes in the distribution of ecological facies in the Bahamas*
+
+**Robin L.C. Pijnenburg**
+
+BSc thesis (2023): *A high-resolution record of Devonian conodont evolution*
+
+**Twan Megens**
+
+BSc thesis (2023): *Evidence of microevolution of* Tripodellus gracilis *during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland*
