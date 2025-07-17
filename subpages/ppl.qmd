@@ -56,27 +56,29 @@ Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencece
 
 ### Current
 
-+--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Dennis Lutgens**                                                                         | **Thodoris Tsaveas**                                                                                                       |
-|                                                                                            |                                                                                                                            |
-| Satellite image analysis of ecological facies in the Bahamas                               | *Topological Data Analysis of ecological facies distribution in the Bahamas*                                               |
-|                                                                                            |                                                                                                                            |
-| Masters thesis                                                                             | Masters thesis                                                                                                             |
-+--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](/img/Anna.jpeg){width="162"}                                                           | **Julia Szpor**                                                                                                            |
-|                                                                                            |                                                                                                                            |
-| **Anna Jansen**                                                                            | *University College Utrecht*                                                                                               |
-|                                                                                            |                                                                                                                            |
-| *University College Utrecht*                                                               | Internship: *Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?* |
-|                                                                                            |                                                                                                                            |
-| BSc thesis on modelling the effects of ecological niches on the record of mass extinctions |                                                                                                                            |
-+--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Michelle Than**                                                                          | **Bruno Peeters**                                                                                                          |
-|                                                                                            |                                                                                                                            |
-| Honours project on modelling the response of carbonate producers to varying insolation     | BSc thesis and internship on the effect of stratigraphic gaps on phylogenetic inference                                    |
-+--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Dennis Lutgens**                                                                      | **Thodoris Tsaveas**                                                                                                       |
+|                                                                                         |                                                                                                                            |
+| Satellite image analysis of ecological facies in the Bahamas                            | *Topological Data Analysis of ecological facies distribution in the Bahamas*                                               |
+|                                                                                         |                                                                                                                            |
+| Masters thesis                                                                          | Masters thesis                                                                                                             |
++-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| ![](/img/Bruno.jpg)                                                                     | **Julia Szpor**                                                                                                            |
+|                                                                                         |                                                                                                                            |
+| **Bruno Peeters**                                                                       | *University College Utrecht*                                                                                               |
+|                                                                                         |                                                                                                                            |
+| BSc thesis and internship on the effect of stratigraphic gaps on phylogenetic inference | Internship: *Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?* |
++-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
 
 ### Past
+
+![](/img/Anna.jpeg){width="162"}
+
+**Anna Jansen**
+
+*University College Utrecht*
+
+BSc thesis (2025) on modelling the effects of ecological niches on the record of mass extinctions
 
 ![](/img/Sidney.JPG){width="200"}
 
