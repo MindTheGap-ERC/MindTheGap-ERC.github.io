@@ -8,9 +8,9 @@ chicago manual of style 17th ed. (author-date)
 -->
 ```
 
--   Hohmann, Niklas, David De Vleechouwer, Sietske Batenburg, and Emilia Jarochowska. Nonparametric estimation of age-depth models from sedimentological and stratigraphic information. *Geochronology (in press)* <https://doi.org/10.5194/egusphere-2024-2857>.
+-   Hohmann, Niklas, David De Vleechouwer, Sietske Batenburg, and Emilia Jarochowska. "Nonparametric estimation of age-depth models from sedimentological and stratigraphic information." *Geochronology (in press)* <https://doi.org/10.5194/egusphere-2024-2857>.
 
--   Ray, David C., Emilia Jarochowska, Helen E. Hughes, Alan S. Richardson, and Alan T. Thomas. 2025. "Glacio-eustatic sea-level changes and their magnitude in the Telychian‒Sheinwoodian (Silurian) of England and Wales.*" Journal of the Geological Society (in press)*
+-   Ray, David C., Emilia Jarochowska, Helen E. Hughes, Alan S. Richardson, and Alan T. Thomas. 2025. "Glacio-eustatic sea-level changes and their magnitude in the Telychian‒Sheinwoodian (Silurian) of England and Wales.*" Journal of the Geological Society* 182. <https://www.lyellcollection.org/doi/full/10.1144/jgs2024-292>
 
 -   Hohmann, Niklas, and Emilia Jarochowska. 2025. “StratPal: An R Package for Creating Stratigraphic Paleobiology Modelling Pipelines.” *Methods in Ecology and Evolution*. <https://doi.org/10.1111/2041-210X.14507>.
 

@@ -12,7 +12,7 @@ In this workshop, we provide an introduction to forward modelling in stratigraph
 
 This workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhDs, and researchers interested in stratigraphic paleobiology. We adjust the level to match that of the workshop participants.
 
-The workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) [here](https://doi.org/10.5281/zenodo.13769443).
+The workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) [here](https://doi.org/10.5281/zenodo.13769443) and a more advanced version focusing on deep time is [here](https://zenodo.org/records/15735525).
 
 Contact: [Niklas Hohmann](mailto:N.H.Hohmann@uu.nl) and [Emilia Jarochowska](mailto:e.b.jarochowska@uu.nl)
 
