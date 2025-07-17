@@ -4,7 +4,9 @@
 
 ![](/img/202503_202503_SIW_Stands_078.jpg){fig-alt="The team at Science is Wonderfu!: Xianyi, Niklas, Sidney and Emilia standing at their booth holding fossil skulls"}
 
--   June 2025: We are hosting the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting will take place at Utrecht University on 26th - 29th June. [Programme and registration](https://www.uu.nl/en/research/department-of-earth-sciences/cyclonet-meeting-utrecht)
+-   June 2025: We have hosted the CycloNet meeting: a conference and workshop for cyclostratigraphers, led by Niklas Hohmann. The meeting took place at Utrecht University on 26th - 29th June. It was followed by a 2-day field trip to the Devonian and Carboniferous of Belgium, led by Anne-Christine da Silva and David De Vleeschouwer. The conference included three workshops: on stratigraphic forward modeling with [`CarboKitten.jl`](https://mindthegap-erc.github.io/CarboKitten.jl/), led by Johan Hidding and Xianyi Liu, on [age-depth modeling in R](https://zenodo.org/records/15735525), led by Niklas Hohmann, David De Vleeschouwer and Christian Zeeden, and on FAIR data, led by Aristotelis Kandylas, Vincent Brunst and Ilja Kocken.
+
+![](/img/CycloNet_field.jpg){fig-alt="CycloNet field trip participants. Photo by E. Advokaat."}
 
 -   March 2025: We presented a show on modelling evolution and an interactive booth at [Science is Wonderful! 2025](https://marie-sklodowska-curie-actions.ec.europa.eu/science-is-wonderful) in Brussels in March. [Read the report here](https://www.uu.nl/en/news/embodying-randomness-in-nature-through-theatre-teaching-evolution-to-kids-at-science-is-wonderful)
 
