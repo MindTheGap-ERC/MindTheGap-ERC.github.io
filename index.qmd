@@ -12,10 +12,12 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   The preprint [Nonparametric estimation of age-depth models from sedimentological and stratigraphic information](https://doi.org/10.5194/egusphere-2024-2857) has just been accepted for publication in *Geochronology*!
+-   Anna Jansen (University College Utrecht) completed her BSc thesis *Niche-Dependent Fossil Preservation in Incomplete Tropical Carbonate Platforms*, supervised by N. Hohmann and E. Jarochowska. Congratulations!
 
--   We are hosting the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting will take place at Utrecht University on 26th - 29th June. [Programme and registration](https://www.uu.nl/en/research/department-of-earth-sciences/cyclonet-meeting-utrecht)
+-   The article [*Glacio-eustatic sea-level changes and their magnitude in the Telychian‒Sheinwoodian (Silurian) of England and Wales*](https://www.lyellcollection.org/doi/full/10.1144/jgs2024-292) by D. C. Ray, E. Jarochowska, H. E. Hughes, A. S. Richardson and A. T. Thomas has just appeared in *Journal of the Geological Society*.
 
--   Masters student Sidney Bickerton completed his research project "Spatial biases in the recovery of extinction dynamics from carbonate platforms". Congratulations!
+-   We hosted the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting took place at Utrecht University on 26th - 29th June.
+
+    ![CycloNet 2025 participants at Utrecht University. Photo: E. Advokaat.](img/CycloNet_group_photo.jpg)
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*
