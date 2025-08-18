@@ -12,9 +12,9 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   Anna Jansen (University College Utrecht) completed her BSc thesis *Niche-Dependent Fossil Preservation in Incomplete Tropical Carbonate Platforms*, supervised by N. Hohmann and E. Jarochowska. Congratulations!
+-   Niklas Hohmann is presenting his poster "Phylogenetic Inference from an Incomplete Fossil Record" at the Congress of the European Society for Evolutionary Biology in Barcelona (17-22 August 2025)
 
--   The article [*Glacio-eustatic sea-level changes and their magnitude in the Telychian‒Sheinwoodian (Silurian) of England and Wales*](https://www.lyellcollection.org/doi/full/10.1144/jgs2024-292) by D. C. Ray, E. Jarochowska, H. E. Hughes, A. S. Richardson and A. T. Thomas has just appeared in *Journal of the Geological Society*.
+-   The article [Enhancing the Accuracy of Dynamic Time Warping by Integrating Stratigraphic Constraints Into the Automated Correlation of Sedimentary Sequences](https://doi.org/10.1029/2024PA005082) by R. Samant, T. Giorgino, E. Jarochowska and D. De Vleeschouwer has just appeared in *Paleoceanography and Paleoclimatology*.
 
 -   We hosted the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting took place at Utrecht University on 26th - 29th June.
 
