@@ -12,12 +12,10 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   Niklas Hohmann is presenting his poster "Phylogenetic Inference from an Incomplete Fossil Record" at the Congress of the European Society for Evolutionary Biology in Barcelona (17-22 August 2025)
+-   We welcome Dr Charlotte Summers as a Research Software Engineer on board of the `CarboKitten.jl` team.
 
--   The article [Enhancing the Accuracy of Dynamic Time Warping by Integrating Stratigraphic Constraints Into the Automated Correlation of Sedimentary Sequences](https://doi.org/10.1029/2024PA005082) by R. Samant, T. Giorgino, E. Jarochowska and D. De Vleeschouwer has just appeared in *Paleoceanography and Paleoclimatology*.
+-   [`Stratcols` 1.0.0](https://mindthegap-erc.github.io/stratcols/), an R package for handling stratigraphic columns and quantifying stratigraphic order, has been released on CRAN.
 
--   We hosted the CycloNet meeting: a conference and workshop for cyclostratigraphers, including a field trip to Devonian and Carboniferous localities in Belgium. The meeting took place at Utrecht University on 26th - 29th June.
-
-    ![CycloNet 2025 participants at Utrecht University. Photo: E. Advokaat.](img/CycloNet_group_photo.jpg)
+-   Niklas Hohmann and Emilia Jarochowska will teach a half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. You can still register!
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*

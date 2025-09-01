@@ -6,7 +6,7 @@
 
 -   5^th^ October 2025: We will be presenting a theater show about modelling evolution *"Waarom zijn er verschillende organismen?"* at [Weekend van de Wetenschap](https://weekendvandewetenschap.nl/) in Utrecht
 
--   September 2025: We will be leading a workshop on **Age-depth modelling in R** at the International Subcommission for Silurian Stratigraphy in Seville
+-   August 2025: Niklas Hohmann has presented the poster ["Phylogenetic Inference from an Incomplete Fossil Record"](https://zenodo.org/records/16895033) at Congress of the European Society of Evolutionary Biology (ESEB) 2025 in Barcelona, Spain.
 
 -   June 2025: We have hosted the CycloNet meeting: a conference and workshop for cyclostratigraphers, led by Niklas Hohmann. The meeting took place at Utrecht University on 26th - 29th June. It was followed by a 2-day field trip to the Devonian and Carboniferous of Belgium, led by Anne-Christine da Silva and David De Vleeschouwer. The conference included three workshops: on stratigraphic forward modeling with [`CarboKitten.jl`](https://mindthegap-erc.github.io/CarboKitten.jl/), led by Johan Hidding and Xianyi Liu, on [age-depth modeling in R](https://zenodo.org/records/15735525), led by Niklas Hohmann, David De Vleeschouwer and Christian Zeeden, and on FAIR data, led by Aristotelis Kandylas, Vincent Brunst and Ilja Kocken.
 

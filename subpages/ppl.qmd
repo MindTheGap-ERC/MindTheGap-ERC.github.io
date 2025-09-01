@@ -42,6 +42,14 @@ Netherlands eScience Center\
 email: j.hidding \[at\] esciencecenter.nl\
 Web page: [www.esciencecenter.nl/team/johan-hidding-msc/](https://www.esciencecenter.nl/team/johan-hidding-msc/)
 
+![](/img/Charlotte.jpg){fig-alt="Dr Charlotte Summers" fig-align="left" width="200"}
+
+**Charlotte Summers**\
+Research Software Engineer\
+Utrecht University\
+email: c.summers \[at\] uu.nl\
+Web page: [www.uu.nl/staff/CSummers](https://www.uu.nl/staff/CSummers)
+
 ## Collaborators
 
 +------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+
