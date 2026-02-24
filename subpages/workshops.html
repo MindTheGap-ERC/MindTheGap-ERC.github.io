@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="../img/logo_tree_horizontal_ERC_square.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-ac0578e1f87f273c3fa40b04908a6ea7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-000f0825b9c55ed21d14970d810c14a9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -176,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The fossil record is a joint expression of biological and geological processes. The record of biological events, such as extinction, migration, speciation, can be distorted by stratigraphic architectures, environmental factors, and taphonomy. The core idea of stratigraphic paleobiology is to incorporate knowledge about geological processes shaping these architectures into paleontological analyses to account for stratigraphic biases. Forward modelling is a way to predict and explore how a given geological section, with its gaps and changes in sedimentation rates, will record a hypothetical biological event. It is a powerful tool to formulate stratigraphic null hypotheses about evolutionary dynamics in the fossil record, which can be compared against empirical observations.</p>
 <p>In this workshop, we provide an introduction to forward modelling in stratigraphic paleobiology using the <code>admtools</code> and <code>StratPal</code> packages for R Software. We demonstrate how to develop a modelling workflow that links evolutionary and ecological models (e.g., niche models, trait evolution) with outputs from forward models of carbonate platform evolution (e.g.&nbsp;CarboKitten.jl, CarboCAT). At the end of the workshop, participants will be able to develop their own simulation study that examines how stratigraphic architectures affect paleobiological interpretations (e.g., extinction rates, tempo and mode of evolution) from geological successions.</p>
 <p>This workshop is 3-4 h long (incl.&nbsp;breaks) and suitable for Master students, PhDs, and researchers interested in stratigraphic paleobiology. We adjust the level to match that of the workshop participants.</p>
-<p>The workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) <a href="https://doi.org/10.5281/zenodo.13769443">here</a> and a more advanced version focusing on deep time is <a href="https://zenodo.org/records/15735525">here</a>.</p>
+<p>The workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) and can be accessed via the <a href="https://mindthegap-erc.github.io/StratPal_workshop_materials/">workshop webpage</a> or as archived version <a href="https://doi.org/10.5281/zenodo.13769443">here</a>, with a more advanced version focusing on deep time is <a href="https://zenodo.org/records/15735525">here</a>.</p>
 <p>Contact: <a href="mailto:N.H.Hohmann@uu.nl">Niklas Hohmann</a> and <a href="mailto:e.b.jarochowska@uu.nl">Emilia Jarochowska</a></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -253,13 +254,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

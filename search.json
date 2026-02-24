@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution",
-    "section": "",
-    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record and make better recontructions of past evolutionary dynamics. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nThis project is a consortium between Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM. See also project record at CORDIS.\n\nProject news\n\nWe welcome Dr Charlotte Summers as a Research Software Engineer on board of the CarboKitten.jl team.\nStratcols 1.0.0, an R package for handling stratigraphic columns and quantifying stratigraphic order, has been released on CRAN.\nNiklas Hohmann and Emilia Jarochowska will teach a half-day workshop “Building models for stratigraphic palaeobiology in R” at the Palaeontological Association Annual Meeting in Portsmouth, December 2025. You can still register!\n\nFunded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them."
-  },
-  {
-    "objectID": "subpages/teaching.html",
-    "href": "subpages/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Teaching students the stratigraphy of the Miravete carbonate platform (Cretaceous, Spain). Copyright 2024 K. Peters\n\n\nWe developed two educational applications, which can be used online or as desktop versions:\n\nShellbed Condensator\nShiny app visualizing the effects of sedimentary condensation\n\nApp\nGitHub\n\n\n\nDarwin CAT\nShiny app visualizing the effects of carbonate stratigraphy on trait evolution.\n\nApp\nGitHub\nOpen Educational Resource based on the app: Preservation of evolution in the geological record class activity for Masters or upper Bachelors level class (ca. 3 h)\n\n\n\nStratigraphic paleobiology workshop\nWe developed a workshop on building modeling pipelines for stratigraphic paleobiology in R. The materials are archived on Zenodo and continuously developed on GitHub.\n\n\nAge-depth modeling in R workshop\nDeveloped with David De Vleeschouwer and Christian Zeeden. The materials are archived on Zenodo and continuously developed on GitHub."
-  },
-  {
-    "objectID": "subpages/workshops.html",
-    "href": "subpages/workshops.html",
-    "title": "Workshops",
-    "section": "",
-    "text": "We offer workshops on topics related to stratigraphy and paleobiology. Workshops can be held online or on site, please reach out to us if you are interested in one of the workshops."
-  },
-  {
-    "objectID": "subpages/workshops.html#modeling-stratigraphic-paleobiology-in-r",
-    "href": "subpages/workshops.html#modeling-stratigraphic-paleobiology-in-r",
-    "title": "Workshops",
-    "section": "Modeling Stratigraphic Paleobiology in R",
-    "text": "Modeling Stratigraphic Paleobiology in R\nThe fossil record is a joint expression of biological and geological processes. The record of biological events, such as extinction, migration, speciation, can be distorted by stratigraphic architectures, environmental factors, and taphonomy. The core idea of stratigraphic paleobiology is to incorporate knowledge about geological processes shaping these architectures into paleontological analyses to account for stratigraphic biases. Forward modelling is a way to predict and explore how a given geological section, with its gaps and changes in sedimentation rates, will record a hypothetical biological event. It is a powerful tool to formulate stratigraphic null hypotheses about evolutionary dynamics in the fossil record, which can be compared against empirical observations.\nIn this workshop, we provide an introduction to forward modelling in stratigraphic paleobiology using the admtools and StratPal packages for R Software. We demonstrate how to develop a modelling workflow that links evolutionary and ecological models (e.g., niche models, trait evolution) with outputs from forward models of carbonate platform evolution (e.g. CarboKitten.jl, CarboCAT). At the end of the workshop, participants will be able to develop their own simulation study that examines how stratigraphic architectures affect paleobiological interpretations (e.g., extinction rates, tempo and mode of evolution) from geological successions.\nThis workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhDs, and researchers interested in stratigraphic paleobiology. We adjust the level to match that of the workshop participants.\nThe workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) here and a more advanced version focusing on deep time is here.\nContact: Niklas Hohmann and Emilia Jarochowska\n\n\n\nExample workflow of a model in stratigraphic paleobiology: The sedimentological forward model specifies what facies is deposited where, and how long the gaps are (left). This information is combined with models of biological change specifies what part of the evolutionary history are preserved (bottom right), and the patterns we can observe in the stratigraphic record (top right). Here , the gaps produce artefactual jumps in trait evoltution."
-  },
-  {
-    "objectID": "subpages/workshops.html#modeling-carbonate-platform-growth-using-carbokitten.jl",
-    "href": "subpages/workshops.html#modeling-carbonate-platform-growth-using-carbokitten.jl",
-    "title": "Workshops",
-    "section": "Modeling Carbonate Platform growth using CarboKitten.jl",
-    "text": "Modeling Carbonate Platform growth using CarboKitten.jl\nStratigraphic forward models permit us to test hypotheses on the structure of the geological record and on the preservation of proxies or biological information. Until now, most stratigraphic forward models focused on marine siliciclastic or terrestrial environments. However, carbonate platforms have entirely different dynamics, as the sediment is “born, not made” and produced mostly in situ. Carbonate platforms are also biodiversity hotspots. In this workshop, we present the first Open Source 3D forward model of carbonate platform growth using CarboKitten.jl, written in a new language Julia, developed specifically for high-performance scientific applications.\nIn this workshop, we will cover:\n\na very short intro to stratigraphic forward modeling with example applications tailored to the audience\na short intro to running Julia code and explanation why Julia was chosen for this project and how it can be used for other scientific applications\na hands-on session with CarboKitten.jl to model carbonate platform growth and explore the effects of different parameters on the resulting stratigraphy\nextracting data from the model, visualizing it and coupling with other packages in R or Python, depending on the needs of the audience\n\nThe workshop does not require any prior knowledge of Julia, but basic knowledge of R or Python will be helpful. We assume prior familiarity with the basics of carbonate sedimentology (at the level e.g. of Schlager’s (2005) textbook) and stratigraphy (e.g. Nichol’s “Sedimentology and Stratigraphy” textbook or comparable). The workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhD students, and researchers interested in carbonate platform growth and stratigraphic modeling. We adjust the level to match that of the workshop participants.\nContact: Xianyi Liu, Johan Hidding and Emilia Jarochowska"
-  },
-  {
-    "objectID": "subpages/ppl.html",
-    "href": "subpages/ppl.html",
-    "title": "Team",
-    "section": "",
-    "text": "Emilia Jarochowska\nPrincipal Investigator\nUtrecht University\nemail: e.b.jarochowska [at] uu.nl\nWeb page: www.uu.nl/staff/EBJarochowska\nORCID: 0000-0001-8937-9405\nXianyi Liu\nPostdoctoral researcher\nUtrecht University\nemail: x.liu6 [at] uu.nl\nWeb page: www.uu.nl/staff/XLiu6\nORCID: 0000-0002-3851-116X\nNiklas Hohmann\nPhD student\nUtrecht University\nemail: n.h.hohmann [at] uu.nl\nWeb page: www.uu.nl/staff/NHohmann\nORCID: 0000-0003-1559-1838\nHanno Spreeuw\nResearch Software Engineer\nNetherlands eScience Center\nemail: h.spreeuw [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/dr-hanno-spreeuw/\nORCID: 0000-0002-5057-0322\nJohan Hidding\nResearch Software Engineer\nNetherlands eScience Center\nemail: j.hidding [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/johan-hidding-msc/\nCharlotte Summers\nResearch Software Engineer\nUtrecht University\nemail: c.summers [at] uu.nl\nWeb page: www.uu.nl/staff/CSummers"
-  },
-  {
-    "objectID": "subpages/ppl.html#collaborators",
-    "href": "subpages/ppl.html#collaborators",
-    "title": "Team",
-    "section": "Collaborators",
-    "text": "Collaborators\n\n\n\nPeter Burgess\nCollaborator\nUniversity of Liverpool\nWeb page: www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess\nORCID: 0000-0002-3812-4231\nDavid De Vleeschouwer\nCollaborator\nWestfälische Wilhelms-Universität Münster\nWeb page: www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer\nORCID: 0000-0002-3323-807X\nRachel Warnock\nCollaborator\nFriedrich-Alexander-Universität Erlangen-Nürnberg\nWeb page: https://www.gzn.nat.fau.de/palaeontologie/team/professors/rachel-warnock/"
-  },
-  {
-    "objectID": "subpages/ppl.html#students",
-    "href": "subpages/ppl.html#students",
-    "title": "Team",
-    "section": "Students",
-    "text": "Students\n\nCurrent\n\n\n\n\n\n\n\nDennis Lutgens\nSatellite image analysis of ecological facies in the Bahamas\nMasters thesis\nThodoris Tsaveas\nTopological Data Analysis of ecological facies distribution in the Bahamas\nMasters thesis\n\n\n\nBruno Peeters\nBSc thesis and internship on the effect of stratigraphic gaps on phylogenetic inference\nJulia Szpor\nUniversity College Utrecht\nInternship: Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?\n\n\n\n\n\nPast\n\nAnna Jansen\nUniversity College Utrecht\nBSc thesis (2025) on modelling the effects of ecological niches on the record of mass extinctions\n\nSidney Bickerton\nLast occurrence of species in a carbonate platform based on varying environmental conditions\nGuided research, 2025\nLaurent Puyana\nUniversity of Florida\nInternship (2025): Historical changes in the distribution of ecological facies in the Bahamas\nRobin L.C. Pijnenburg\nBSc thesis (2023): A high-resolution record of Devonian conodont evolution\nTwan Megens\nBSc thesis (2023): Evidence of microevolution of Tripodellus gracilis during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland"
-  },
-  {
     "objectID": "subpages/activities.html",
     "href": "subpages/activities.html",
     "title": "Talks and activities",
@@ -112,6 +56,27 @@
     "text": "Other topics\n\nStudy taphonomy across the agronomic revolution using the PartiMoDe model\nPreservation of Regime Shifts, Resilience, and Recovery in Modern Marine Environments"
   },
   {
+    "objectID": "subpages/ppl.html",
+    "href": "subpages/ppl.html",
+    "title": "Team",
+    "section": "",
+    "text": "Emilia Jarochowska\nPrincipal Investigator\nUtrecht University\nemail: e.b.jarochowska [at] uu.nl\nWeb page: www.uu.nl/staff/EBJarochowska\nORCID: 0000-0001-8937-9405\nXianyi Liu\nPostdoctoral researcher\nUtrecht University\nemail: x.liu6 [at] uu.nl\nWeb page: www.uu.nl/staff/XLiu6\nORCID: 0000-0002-3851-116X\nNiklas Hohmann\nPhD student\nUtrecht University\nemail: n.h.hohmann [at] uu.nl\nWeb page: www.uu.nl/staff/NHohmann\nORCID: 0000-0003-1559-1838\nHanno Spreeuw\nResearch Software Engineer\nNetherlands eScience Center\nemail: h.spreeuw [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/dr-hanno-spreeuw/\nORCID: 0000-0002-5057-0322\nJohan Hidding\nResearch Software Engineer\nNetherlands eScience Center\nemail: j.hidding [at] esciencecenter.nl\nWeb page: www.esciencecenter.nl/team/johan-hidding-msc/\nCharlotte Summers\nResearch Software Engineer\nUtrecht University\nemail: c.summers [at] uu.nl\nWeb page: www.uu.nl/staff/CSummers"
+  },
+  {
+    "objectID": "subpages/ppl.html#collaborators",
+    "href": "subpages/ppl.html#collaborators",
+    "title": "Team",
+    "section": "Collaborators",
+    "text": "Collaborators\n\n\n\nPeter Burgess\nCollaborator\nUniversity of Liverpool\nWeb page: www.liverpool.ac.uk/environmental-sciences/staff/peter-burgess\nORCID: 0000-0002-3812-4231\nDavid De Vleeschouwer\nCollaborator\nWestfälische Wilhelms-Universität Münster\nWeb page: www.uni-muenster.de/GeoPalaeontologie/erdsystemforschung/staff/DeVleeschouwer\nORCID: 0000-0002-3323-807X\nRachel Warnock\nCollaborator\nFriedrich-Alexander-Universität Erlangen-Nürnberg\nWeb page: https://www.gzn.nat.fau.de/palaeontologie/team/professors/rachel-warnock/"
+  },
+  {
+    "objectID": "subpages/ppl.html#students",
+    "href": "subpages/ppl.html#students",
+    "title": "Team",
+    "section": "Students",
+    "text": "Students\n\nCurrent\n\n\n\n\n\n\n\nDennis Lutgens\nSatellite image analysis of ecological facies in the Bahamas\nMasters thesis\nThodoris Tsaveas\nTopological Data Analysis of ecological facies distribution in the Bahamas\nMasters thesis\n\n\n\nBruno Peeters\nBSc thesis and internship on the effect of stratigraphic gaps on phylogenetic inference\nJulia Szpor\nUniversity College Utrecht\nInternship: Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?\n\n\n\n\n\nPast\n\nAnna Jansen\nUniversity College Utrecht\nBSc thesis (2025) on modelling the effects of ecological niches on the record of mass extinctions\n\nSidney Bickerton\nLast occurrence of species in a carbonate platform based on varying environmental conditions\nGuided research, 2025\nLaurent Puyana\nUniversity of Florida\nInternship (2025): Historical changes in the distribution of ecological facies in the Bahamas\nRobin L.C. Pijnenburg\nBSc thesis (2023): A high-resolution record of Devonian conodont evolution\nTwan Megens\nBSc thesis (2023): Evidence of microevolution of Tripodellus gracilis during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland"
+  },
+  {
     "objectID": "subpages/science.html",
     "href": "subpages/science.html",
     "title": "Science",
@@ -138,13 +103,6 @@
     "title": "Science",
     "section": "Reconstruct evolution at the 104-105 years scale from empirical geological data",
     "text": "Reconstruct evolution at the 104-105 years scale from empirical geological data\nModern evolutionary trees are constructed almost exclusively from genetic and morphological data of living or fossilized organisms. They disregard species which have not been sampled, even though they form the majority of the history of any lineage, and the majority of geological information in what environments and at what times in the Earth’s history these species occurred, which could inform us on the environmental context of past evolutionary events, is not or underused.\nWe develop not only methods, software and research applications, but also workshops and teaching materials on how to account for the structure of the stratigraphic record in evolutionary studies. The key tool developed in this projects is the admtools package for R, which allows constructing age-depth models free of any build-in assumptions and apply it to phylogenetic trees, records of trait evolution, proxy data and essentially any variables that can be recovered from the rock record."
-  },
-  {
-    "objectID": "subpages/archive.html",
-    "href": "subpages/archive.html",
-    "title": "Datasets",
-    "section": "",
-    "text": "Markus, T., & Jarochowska, E. (2025). Animation presenting the record of trilobite evolution in geological strata. Zenodo.\nHohmann, N., Koelewijn, J. R., & Jarochowska, E. (2024). Identification of the Mode of Evolution in Incomplete Carbonate Successions - Supporting Data.\nYou can find a complete list of our datasets and other research outputs in the project’s Zenodo community."
   },
   {
     "objectID": "subpages/software.html",
@@ -180,6 +138,48 @@
     "title": "Software",
     "section": "Education",
     "text": "Education\n\nShellbed Condensator\nShiny app visualizing the effects of sedimentary condensation\n\nApp\nGitHub\n\n\n\nDarwin CAT\nShiny app visualizing the effects of carbonate stratigraphy on trait evolution.\n\nApp\nGitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MindTheGap: Quantifying the completeness of the stratigraphic record and its role in reconstructing the tempo and mode of evolution",
+    "section": "",
+    "text": "Welcome to the webpage of the project.\nWe develop numerical models to study the structure of the geological record and make better recontructions of past evolutionary dynamics. Our goal is to understand how time, environmental and evolutionary events are represented in imperfect, gappy records and to use this knowledge to reconstruct the history of life and palaeoclimate.\nThis project is a consortium between Utrecht University and the Netherlands eScience Center. Some software used and developed in this project is a continuation of AstroTOM. See also project record at CORDIS.\n\nProject news\n\nAs part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann will teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available here)\nEmilia Jarochowska and Joël Koelewijn tought a successful half-day workshop “Building models for stratigraphic palaeobiology in R” at the Palaeontological Association Annual Meeting in Portsmouth, December 2025. All materials are available here - open as science should be!\nWe welcome Dr Charlotte Summers as a Research Software Engineer on board of the CarboKitten.jl team.\nStratcols 1.0.0, an R package for handling stratigraphic columns and quantifying stratigraphic order, has been released on CRAN.\n\nFunded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them."
+  },
+  {
+    "objectID": "subpages/teaching.html",
+    "href": "subpages/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching students the stratigraphy of the Miravete carbonate platform (Cretaceous, Spain). Copyright 2024 K. Peters\n\n\nWe developed two educational applications, which can be used online or as desktop versions:\n\nShellbed Condensator\nShiny app visualizing the effects of sedimentary condensation\n\nApp\nGitHub\n\n\n\nDarwin CAT\nShiny app visualizing the effects of carbonate stratigraphy on trait evolution.\n\nApp\nGitHub\nOpen Educational Resource based on the app: Preservation of evolution in the geological record class activity for Masters or upper Bachelors level class (ca. 3 h)\n\n\n\nStratigraphic paleobiology workshop\nWe developed a workshop on building modeling pipelines for stratigraphic paleobiology in R. The materials are archived on Zenodo and continuously developed on GitHub.\n\n\nAge-depth modeling in R workshop\nDeveloped with David De Vleeschouwer and Christian Zeeden. The materials are archived on Zenodo and continuously developed on GitHub."
+  },
+  {
+    "objectID": "subpages/workshops.html",
+    "href": "subpages/workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "We offer workshops on topics related to stratigraphy and paleobiology. Workshops can be held online or on site, please reach out to us if you are interested in one of the workshops."
+  },
+  {
+    "objectID": "subpages/workshops.html#modeling-stratigraphic-paleobiology-in-r",
+    "href": "subpages/workshops.html#modeling-stratigraphic-paleobiology-in-r",
+    "title": "Workshops",
+    "section": "Modeling Stratigraphic Paleobiology in R",
+    "text": "Modeling Stratigraphic Paleobiology in R\nThe fossil record is a joint expression of biological and geological processes. The record of biological events, such as extinction, migration, speciation, can be distorted by stratigraphic architectures, environmental factors, and taphonomy. The core idea of stratigraphic paleobiology is to incorporate knowledge about geological processes shaping these architectures into paleontological analyses to account for stratigraphic biases. Forward modelling is a way to predict and explore how a given geological section, with its gaps and changes in sedimentation rates, will record a hypothetical biological event. It is a powerful tool to formulate stratigraphic null hypotheses about evolutionary dynamics in the fossil record, which can be compared against empirical observations.\nIn this workshop, we provide an introduction to forward modelling in stratigraphic paleobiology using the admtools and StratPal packages for R Software. We demonstrate how to develop a modelling workflow that links evolutionary and ecological models (e.g., niche models, trait evolution) with outputs from forward models of carbonate platform evolution (e.g. CarboKitten.jl, CarboCAT). At the end of the workshop, participants will be able to develop their own simulation study that examines how stratigraphic architectures affect paleobiological interpretations (e.g., extinction rates, tempo and mode of evolution) from geological successions.\nThis workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhDs, and researchers interested in stratigraphic paleobiology. We adjust the level to match that of the workshop participants.\nThe workshop requires basic knowledge of the R software, but no prior experience in modeling. It is designed to focus on the scientific questions and principles underlying stratigraphic paleobiology rather than coding skills. The workshop materials are available as an Open Educational Resource (OER) and can be accessed via the workshop webpage or as archived version here, with a more advanced version focusing on deep time is here.\nContact: Niklas Hohmann and Emilia Jarochowska\n\n\n\nExample workflow of a model in stratigraphic paleobiology: The sedimentological forward model specifies what facies is deposited where, and how long the gaps are (left). This information is combined with models of biological change specifies what part of the evolutionary history are preserved (bottom right), and the patterns we can observe in the stratigraphic record (top right). Here , the gaps produce artefactual jumps in trait evoltution."
+  },
+  {
+    "objectID": "subpages/workshops.html#modeling-carbonate-platform-growth-using-carbokitten.jl",
+    "href": "subpages/workshops.html#modeling-carbonate-platform-growth-using-carbokitten.jl",
+    "title": "Workshops",
+    "section": "Modeling Carbonate Platform growth using CarboKitten.jl",
+    "text": "Modeling Carbonate Platform growth using CarboKitten.jl\nStratigraphic forward models permit us to test hypotheses on the structure of the geological record and on the preservation of proxies or biological information. Until now, most stratigraphic forward models focused on marine siliciclastic or terrestrial environments. However, carbonate platforms have entirely different dynamics, as the sediment is “born, not made” and produced mostly in situ. Carbonate platforms are also biodiversity hotspots. In this workshop, we present the first Open Source 3D forward model of carbonate platform growth using CarboKitten.jl, written in a new language Julia, developed specifically for high-performance scientific applications.\nIn this workshop, we will cover:\n\na very short intro to stratigraphic forward modeling with example applications tailored to the audience\na short intro to running Julia code and explanation why Julia was chosen for this project and how it can be used for other scientific applications\na hands-on session with CarboKitten.jl to model carbonate platform growth and explore the effects of different parameters on the resulting stratigraphy\nextracting data from the model, visualizing it and coupling with other packages in R or Python, depending on the needs of the audience\n\nThe workshop does not require any prior knowledge of Julia, but basic knowledge of R or Python will be helpful. We assume prior familiarity with the basics of carbonate sedimentology (at the level e.g. of Schlager’s (2005) textbook) and stratigraphy (e.g. Nichol’s “Sedimentology and Stratigraphy” textbook or comparable). The workshop is 3-4 h long (incl. breaks) and suitable for Master students, PhD students, and researchers interested in carbonate platform growth and stratigraphic modeling. We adjust the level to match that of the workshop participants.\nContact: Xianyi Liu, Johan Hidding and Emilia Jarochowska"
+  },
+  {
+    "objectID": "subpages/archive.html",
+    "href": "subpages/archive.html",
+    "title": "Datasets",
+    "section": "",
+    "text": "Markus, T., & Jarochowska, E. (2025). Animation presenting the record of trilobite evolution in geological strata. Zenodo.\nHohmann, N., Koelewijn, J. R., & Jarochowska, E. (2024). Identification of the Mode of Evolution in Incomplete Carbonate Successions - Supporting Data.\nYou can find a complete list of our datasets and other research outputs in the project’s Zenodo community."
   },
   {
     "objectID": "subpages/pub.html",
