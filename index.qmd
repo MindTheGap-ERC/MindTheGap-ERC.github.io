@@ -12,10 +12,13 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
+-   As part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann will teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available [here](https://github.com/MindTheGap-ERC/age_depth_modeling_r))
+
+-   Emilia Jarochowska and Joël Koelewijn tought a successful half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. All materials are available [here](https://mindthegap-erc.github.io/StratPal_workshop_materials/) - open as science should be!
+
 -   We welcome Dr Charlotte Summers as a Research Software Engineer on board of the `CarboKitten.jl` team.
 
 -   [`Stratcols` 1.0.0](https://mindthegap-erc.github.io/stratcols/), an R package for handling stratigraphic columns and quantifying stratigraphic order, has been released on CRAN.
 
--   Niklas Hohmann and Emilia Jarochowska will teach a half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. You can still register!
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*

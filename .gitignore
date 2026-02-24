@@ -64,3 +64,5 @@ rsconnect/
 
 
 /.luarc.json
+
+**/*.quarto_ipynb
