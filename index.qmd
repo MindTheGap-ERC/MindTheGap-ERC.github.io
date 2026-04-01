@@ -12,7 +12,9 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   As part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann will teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available [here](https://github.com/MindTheGap-ERC/age_depth_modeling_r))
+-   Niklas Hohmann will present on "Building FAIR R packages for scientists" at the [Programming Cafe of Utrecht University](https://www.uu.nl/en/events/programming-cafe-2-april-2026) on the 2nd of April
+
+-   As part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann did teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available [here](https://github.com/MindTheGap-ERC/age_depth_modeling_r))
 
 -   Emilia Jarochowska and Joël Koelewijn tought a successful half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. All materials are available [here](https://mindthegap-erc.github.io/StratPal_workshop_materials/) - open as science should be!
 
