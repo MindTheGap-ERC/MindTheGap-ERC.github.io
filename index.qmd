@@ -12,7 +12,7 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   Niklas Hohmann will present on "Building FAIR R packages for scientists" at the [Programming Cafe of Utrecht University](https://www.uu.nl/en/events/programming-cafe-2-april-2026) on the 2nd of April
+-   Niklas Hohmann presented on "Building FAIR R packages for scientists" at the [Programming Cafe of Utrecht University](https://www.uu.nl/en/events/programming-cafe-2-april-2026) on the 2nd of April, slides are available [here](https://github.com/MindTheGap-ERC/FAIR_R_packages_for_science)
 
 -   As part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann did teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available [here](https://github.com/MindTheGap-ERC/age_depth_modeling_r))
 
