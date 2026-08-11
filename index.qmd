@@ -12,14 +12,14 @@ This project is a consortium between [Utrecht University](https://www.uu.nl/en/r
 
 ### Project news
 
--   **New preprint:** *Stratigraphic Paleobiology of Carbonate Systems*, DOI: [10.64898/2026.06.12.732006](https://doi.org/10.64898/2026.06.12.732006) lead by Niklas Hohmann
+-   **New preprint:** *Stratigraphic Paleobiology of Carbonate Systems*, DOI: [10.64898/2026.06.12.732006](https://doi.org/10.64898/2026.06.12.732006) led by Niklas Hohmann
 
--   **New preprint:** *Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform*, DOI: [10.31223/X5K784](https://doi.org/10.31223/X5K784) lead by Xianyi Liu
+-   **New preprint:** *Stratigraphy as a low-pass filter: selective preservation of spatial variability on a Holocene carbonate platform*, DOI: [10.31223/X5K784](https://doi.org/10.31223/X5K784) led by Xianyi Liu
 
 -   Niklas Hohmann presented on "Building FAIR R packages for scientists" at the [Programming Cafe of Utrecht University](https://www.uu.nl/en/events/programming-cafe-2-april-2026) on the 2nd of April, slides are available [here](https://mindthegap-erc.github.io/FAIR_R_packages_for_science/slides)
 
 -   As part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann did teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available [here](https://github.com/MindTheGap-ERC/age_depth_modeling_r))
 
--   Emilia Jarochowska and Joël Koelewijn tought a successful half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. All materials are available [here](https://mindthegap-erc.github.io/StratPal_workshop_materials/) - open as science should be!
+-   Emilia Jarochowska and Joël Koelewijn taught a half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. All materials are available [here](https://mindthegap-erc.github.io/StratPal_workshop_materials/) - open as science should be!
 
 *Funded by the European Union (ERC, MindTheGap, StG project no 101041077). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.*
