@@ -64,21 +64,36 @@ Web page: [www.uu.nl/staff/CSummers](https://www.uu.nl/staff/CSummers)
 
 ### Current
 
-+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Dennis Lutgens**                                                                      | **Thodoris Tsaveas**                                                                                                       |
-|                                                                                         |                                                                                                                            |
-| Satellite image analysis of ecological facies in the Bahamas                            | *Topological Data Analysis of ecological facies distribution in the Bahamas*                                               |
-|                                                                                         |                                                                                                                            |
-| Masters thesis                                                                          | Masters thesis                                                                                                             |
-+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
-| ![](/img/Bruno.jpg)                                                                     | **Julia Szpor**                                                                                                            |
-|                                                                                         |                                                                                                                            |
-| **Bruno Peeters**                                                                       | *University College Utrecht*                                                                                               |
-|                                                                                         |                                                                                                                            |
-| BSc thesis and internship on the effect of stratigraphic gaps on phylogenetic inference | Internship: *Ground-truthing the Devonian conodont biofacies model: does it hold in the age of quantitative paleobiology?* |
-+-----------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+Myrthe van der Heide, MSc thesis "Jurassic and Cretaceous fossil decapod ecologies based on geometric morphometrics"
 
 ### Past
+
+**Pelle Huizinga**
+
+BSc thesis 2026 "Edge-concentrated change and meadow consolidation: 82 years of seagrass patch dynamics on the western Caicos Bank", co-supervised by Xianyi Liu
+
+**Kevin Deenik**
+
+BSc thesis 2026 "How have the classes and their patch characteristics changed over the last 80 years? Assessment based on aerial and satellite imagery from the Turks and Caicos", co-supervised by Xianyi Liu
+
+**Thodoris Tsaveas**
+
+MSc thesis 2026 "Reconstruction of spatial and temporal changes of marine facies in the Bahamas through topological data analysis", co-supervised by Xianyi Liu
+
+**Dennis Lutgens**
+
+MSc thesis 2026 "Tracing the geomorphological transformation of shallow-water environments in the Bahamas: From 1940s aerial photos to modern satellite imagery", co-supervised by Xianyi Liu
+
+![](/img/Bruno.jpg){width=100}
+
+**Bruno Peeters**
+
+BSc thesis "The fossil falls far from the tree: how biases in the fossil record skew phylogenetic trees. A review summarizing and evaluating the obstacles/barriers to incorporating the fossil record in phylogenetic tree reconstruction" and internship "Recovering close ancestors to descendants. A report looking at the recoverability of sampled ancestors under the FBD process", co-supervised by Niklas Hohmann
+
+**Julia Szpor**
+*University College Utrecht*
+
+BSc thesis 2026 "Extinct or Left Without Saying Goodbye? Ecological Bias in the Late Devonian Mass Extinction", co-supervised by Niklas Hohmann
 
 ![](/img/Anna.jpeg){width="162"}
 
@@ -86,26 +101,24 @@ Web page: [www.uu.nl/staff/CSummers](https://www.uu.nl/staff/CSummers)
 
 *University College Utrecht*
 
-BSc thesis (2025) on modelling the effects of ecological niches on the record of mass extinctions
+BSc thesis 2025, on modelling the effects of ecological niches on the record of mass extinctions, co-supervised by Niklas Hohmann
 
 ![](/img/Sidney.JPG){width="200"}
 
 **Sidney Bickerton**
 
-*Last occurrence of species in a carbonate platform based on varying environmental conditions*
-
-Guided research, 2025
+Guided research 2025 "Last occurrence of species in a carbonate platform based on varying environmental conditions", co-supervised by Niklas Hohmann
 
 **Laurent Puyana**
 
 *University of Florida*
 
-Internship (2025): *Historical changes in the distribution of ecological facies in the Bahamas*
+Internship (2025): *Historical changes in the distribution of ecological facies in the Bahamas*, co-supervised by Xianyi Liu
 
 **Robin L.C. Pijnenburg**
 
-BSc thesis (2023): *A high-resolution record of Devonian conodont evolution*
+BSc thesis (2023): *A high-resolution record of Devonian conodont evolution*, co-supervised by Niklas Hohmann
 
 **Twan Megens**
 
-BSc thesis (2023): *Evidence of microevolution of* Tripodellus gracilis *during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland*
+BSc thesis (2023): *Evidence of microevolution of* Tripodellus gracilis *during the Famennian anoxic events in Kowala quarry in the Holy Cross mountains, Poland*, co-supervised by Niklas Hohmann

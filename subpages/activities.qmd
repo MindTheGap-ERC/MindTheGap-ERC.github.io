@@ -10,6 +10,8 @@
 
 - 23^rd^ June 2026: Myrthe van der Heide, MSc student co-supervised by Rachel Warnock and Emilia Jarochowska, presented her talk "A dive into deep-sea lobsters: A Bayesian total-evidence approach to the phylogeny of polychelidan lobsters" at Progressive Palaeontology in London
 
+- 19^th^ May 2026: Charlotte Summers presented her talk "Exploring how biotic interactions affect cyclicity in carbonate rocks with CarboKitten.jl" at the [Origins Center 2026 Conference](https://www.originscenter.nl/event/origins-center-2026-conference/)
+
 - 1^st^ May 2026: Emilia Jarochowska and our two students, Myrthe van der Heide and Bruno Peeters, joined the science fair for kids, Expeditie NEXT at Enkhuizen, and engaged children and their parents in creating phylogenetic trees based on vertebrate skulls and in forming and deforming the stratigraphic record to learn why fossils are so rare. 
 
 -   Niklas Hohmann presented "Building FAIR R packages for scientists" at the [Programming Cafe of Utrecht University](https://www.uu.nl/en/events/programming-cafe-2-april-2026) on the 2nd of April, slides are available [here](https://mindthegap-erc.github.io/FAIR_R_packages_for_science/slides)
