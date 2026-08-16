@@ -4,7 +4,21 @@
 
 ![](/img/202503_202503_SIW_Stands_078.jpg){fig-alt="The team at Science is Wonderfu!: Xianyi, Niklas, Sidney and Emilia standing at their booth holding fossil skulls"}
 
--   5^th^ October 2025: We will be presenting a theater show about modelling evolution *"Waarom zijn er verschillende organismen?"* at [Weekend van de Wetenschap](https://weekendvandewetenschap.nl/) in Utrecht
+- 3^rd^ July 2026: Emilia Jarochowska presented an invited plenary keynote at the [STRATI2026 Congress](https://www.strati2026.org/): "Bridging the Disciplinary Unconformity: Incorporating Stratigraphy in Evolutionary Biology"
+
+- 29^th^ June 2026: Xianyi Liu and Emilia Jarochowska led a workshop on stratigraphic forward models with CarboKitten at the [STRATI2026 Congress](https://www.strati2026.org/) in Suzhou, China
+
+- 23^rd^ June 2026: Myrthe van der Heide, MSc student co-supervised by Rachel Warnock and Emilia Jarochowska, presented her talk "A dive into deep-sea lobsters: A Bayesian total-evidence approach to the phylogeny of polychelidan lobsters" at Progressive Palaeontology in London
+
+- 1^st^ May 2026: Emilia Jarochowska and our two students, Myrthe van der Heide and Bruno Peeters, joined the science fair for kids, Expeditie NEXT at Enkhuizen, and engaged children and their parents in creating phylogenetic trees based on vertebrate skulls and in forming and deforming the stratigraphic record to learn why fossils are so rare. 
+
+-   Niklas Hohmann presented "Building FAIR R packages for scientists" at the [Programming Cafe of Utrecht University](https://www.uu.nl/en/events/programming-cafe-2-april-2026) on the 2nd of April, slides are available [here](https://mindthegap-erc.github.io/FAIR_R_packages_for_science/slides)
+
+-   As part of the ICDP/IODP3 Kolloquium 2026 in Münster, Niklas Hohmann did teach a workshop on age-depth modeling together with Christian Zeeden at the GESEP school (Materials available [here](https://github.com/MindTheGap-ERC/age_depth_modeling_r))
+
+-   Emilia Jarochowska and Joël Koelewijn taught a half-day workshop "Building models for stratigraphic palaeobiology in R" at the [Palaeontological Association Annual Meeting in Portsmouth](https://palass.org/annual-meeting-2025-portsmouth-uk-overview), December 2025. All materials are available [here](https://mindthegap-erc.github.io/StratPal_workshop_materials/) - open as science should be!
+
+-   5^th^ October 2025: We presented a theater show about modelling evolution *"Waarom zijn er verschillende organismen?"* at [Weekend van de Wetenschap](https://weekendvandewetenschap.nl/) in Utrecht, involving our alumna Anna Jansen
 
 -   August 2025: Niklas Hohmann has presented the poster ["Phylogenetic Inference from an Incomplete Fossil Record"](https://zenodo.org/records/16895033) at Congress of the European Society of Evolutionary Biology (ESEB) 2025 in Barcelona, Spain.
 
