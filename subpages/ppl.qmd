@@ -6,8 +6,8 @@ title: "Team"
 
 **Emilia Jarochowska**\
 Principal Investigator\
-Utrecht University\
-email: e.b.jarochowska \[at\] uu.nl\
+Münster University
+email: e.jarochowska \[at\] uni-muenster.de\
 Web page: [www.uu.nl/staff/EBJarochowska](https://www.uu.nl/staff/EBJarochowska)\
 ORCID: [0000-0001-8937-9405](https://orcid.org/0000-0001-8937-9405)
 
